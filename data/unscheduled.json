@@ -1,0 +1,4058 @@
+[
+  {
+    "student_id": "S0002",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0002",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0006",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0006",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0006 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0006",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0007",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0008",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0011",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0011",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0012",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0013",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0014",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0014",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0016",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0017",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0017 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0017",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0018",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0018",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0019",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0023",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0024",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0024",
+    "company_id": "C024",
+    "reason": "company_over_capacity: C024's own shortlist (53) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0025",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0025",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0026",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0026",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0028",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0028 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0028",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0029",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0030",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0032",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0033",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0034",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0035",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0036",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0037",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0038",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0038",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0039",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0040",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0041",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0045",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0046",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0046 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0046",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0049",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0053",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0054",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0056",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0056 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0056",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0056 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0056",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0059",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0062",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0063",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0063 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0063",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0063 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0063",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0065",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0066",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0066",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0067",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0068",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0070",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0070",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0071",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0072",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0074",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0075",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0077",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0079",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0079",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0079 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0079",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0079 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0080",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0082",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0083",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0086",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0087",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0088",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0088",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0088 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0089",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0090",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0090 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0090",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0091",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0091",
+    "company_id": "C006",
+    "reason": "company_over_capacity: C006's own shortlist (135) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0093",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0096",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0097",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0098",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0099",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0100",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0101",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0101",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0102",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0103",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0103",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0105",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0107",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0110",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0112",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0113",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0114",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0114",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0114 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0115",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0115",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0117",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0119",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0120",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0122",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0123",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0124",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0124",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0125",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0126",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0126 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0128",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0128",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0132",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0134",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0134",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0136",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0136 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0136",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0137",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0140",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0140",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0141",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0143",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0144",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0146",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0146",
+    "company_id": "C024",
+    "reason": "company_over_capacity: C024's own shortlist (53) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0147",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0148",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0149",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0150",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0153",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0154",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0154",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0157",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0159",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0160",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0160",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0161",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0164",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0165",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0167",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0168",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0170",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0172",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0173",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0174",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0175",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0176",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0177",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0177",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0178",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0180",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0182",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0182 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0182",
+    "company_id": "C024",
+    "reason": "company_over_capacity: C024's own shortlist (53) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0184",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0186",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0189",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0189",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0189 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0189",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0189 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0190",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0192",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0192",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0195",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0197",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0198",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0199",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0202",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0205",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0205",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0206",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0206 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0206",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0206",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0206",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0206 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0207",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0210",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0213",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0214",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0214 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0214",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0214 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0216",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0217",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0217 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0218",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0219",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0220",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0220 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0220",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0220 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0221",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0222",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0225",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0226",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0226 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0226",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0226",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0227",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0231",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0232",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0233",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0233",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0233 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0233",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0234",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0235",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0237",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0237",
+    "company_id": "C024",
+    "reason": "company_over_capacity: C024's own shortlist (53) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0238",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0238",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0239",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0239 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0239",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0239",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0239 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0240",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0243",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0243 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0243",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0243 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0244",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0244 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0244",
+    "company_id": "C006",
+    "reason": "company_over_capacity: C006's own shortlist (135) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0245",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0247",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0250",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0251",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0253",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0254",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0255",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0255",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0255 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0255",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0256",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0257",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0257",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0261",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0262",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0263",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0266",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0268",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0269",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0270",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0270",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0271",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0272",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0274",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0275",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0276",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0276 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0276",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0278",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0280",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0280 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0280",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0282",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0284",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0286",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0288",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0290",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0291",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0291",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0292",
+    "company_id": "C006",
+    "reason": "company_over_capacity: C006's own shortlist (135) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0294",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0294",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0295",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0295",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0299",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0300",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0300",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0305",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0308",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0309",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0309 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0309",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0309 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0312",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0312 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0312",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0315",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0316",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0316 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0316",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0318",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0319",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0319",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0321",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0321",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0322",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0322",
+    "company_id": "C006",
+    "reason": "company_over_capacity: C006's own shortlist (135) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0323",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0324",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0324 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0324",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0324 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0327",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0328",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0328",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0329",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0330",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0330 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0330",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0330",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0331",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0331",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0331 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0333",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0333",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0334",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0335",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0336",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0337",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0337 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0337",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0337 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0338",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0338",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0339",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0347",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0349",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0350",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0351",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0351",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0351 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0351",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0353",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0354",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0354",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0357",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0357 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0357",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0357 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0357",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0358",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0361",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0362",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0362",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0364",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0365",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0366",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0367",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0369",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0369 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0369",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0371",
+    "company_id": "C006",
+    "reason": "company_over_capacity: C006's own shortlist (135) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0372",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0373",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0375",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0376",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0379",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0380",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0380",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0381",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0384",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0385",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0387",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0387",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0387 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0389",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0391",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0391",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0391 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0393",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0393 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0393",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0393 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0393",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0394",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0394 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0394",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0398",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0399",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0400",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0401",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0401",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0402",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0402",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0402 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0403",
+    "company_id": "C024",
+    "reason": "company_over_capacity: C024's own shortlist (53) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0405",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0406",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0407",
+    "company_id": "C024",
+    "reason": "company_over_capacity: C024's own shortlist (53) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0409",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0410",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0410",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0417",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0418",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0419",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0420",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0420",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0421",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0422",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0424",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0424",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0425",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0426",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0426",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0427",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0427",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0428",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0428",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0436",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0436",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0437",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0438",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0438 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0438",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0438 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0438",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0440",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0441",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0441",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0443",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0443",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0444",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0445",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0446",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0448",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0448",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0449",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0449",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0449 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0450",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0450",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0453",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0454",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0454",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0455",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0456",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0457",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0458",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0458",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0459",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0460",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0462",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0464",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0466",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0467",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0468",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0468",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0469",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0469 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0470",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0470 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0470",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0470 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0470",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0471",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0475",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0476",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0477",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0478",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0479",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0480",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0481",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0481 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0482",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0482",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0482 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0484",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0484",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0485",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0488",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0489",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0490",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0492",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0493",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0494",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0494",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0500",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0500",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0501",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0501 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0505",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0507",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0509",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0509 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0509",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0509",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0515",
+    "company_id": "C024",
+    "reason": "company_over_capacity: C024's own shortlist (53) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0516",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0516 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0516",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0516",
+    "company_id": "C024",
+    "reason": "company_over_capacity: C024's own shortlist (53) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0517",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0518",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0518 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0518",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0518 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0519",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0519 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0522",
+    "company_id": "C024",
+    "reason": "company_over_capacity: C024's own shortlist (53) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0523",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0523",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0524",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0524",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0525",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0525",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0527",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0527 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0527",
+    "company_id": "C024",
+    "reason": "company_over_capacity: C024's own shortlist (53) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0529",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0530",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0531",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0532",
+    "company_id": "C006",
+    "reason": "company_over_capacity: C006's own shortlist (135) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0533",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0535",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0535 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0535",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0535 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0537",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0541",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0542",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0546",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0546 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0546",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0546 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0546",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0547",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0547 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0547",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0548",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0549",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0550",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0550",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0551",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0551 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0551",
+    "company_id": "C024",
+    "reason": "company_over_capacity: C024's own shortlist (53) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0552",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0552",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0554",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0554",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0555",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0555",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0558",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0560",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0561",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0562",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0563",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0563",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0565",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0568",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0568 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0568",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0569",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0571",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0571",
+    "company_id": "C006",
+    "reason": "company_over_capacity: C006's own shortlist (135) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0572",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0575",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0577",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0577 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0577",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0577 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0577",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0578",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0579",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0582",
+    "company_id": "C024",
+    "reason": "company_over_capacity: C024's own shortlist (53) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0583",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0584",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0585",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0587",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0588",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0589",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0590",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0592",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0593",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0594",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0596",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0596",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0598",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0600",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0600 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0600",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0601",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0601 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0601",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0602",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0603",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0604",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0606",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0607",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0607 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0607",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0607 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0607",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0608",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0610",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0611",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0613",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0613",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0614",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0618",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0618 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0618",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0620",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0622",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0623",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0624",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0624",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0624 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0628",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0630",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0631",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0632",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0635",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0636",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0637",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0638",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0639",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0639",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0640",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0640",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0642",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0642",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0642",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0642 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0644",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0646",
+    "company_id": "C024",
+    "reason": "company_over_capacity: C024's own shortlist (53) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0648",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0649",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0650",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0651",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0651",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0656",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0657",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0658",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0659",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0659 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0660",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0661",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0661",
+    "company_id": "C006",
+    "reason": "company_over_capacity: C006's own shortlist (135) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0662",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0664",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0664 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0664",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0667",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0672",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0672 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0672",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0672 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0674",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0674 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0674",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0674",
+    "company_id": "C024",
+    "reason": "company_over_capacity: C024's own shortlist (53) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0675",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0675",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0675 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0676",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0678",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0678",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0678 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0678",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0679",
+    "company_id": "C006",
+    "reason": "company_over_capacity: C006's own shortlist (135) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0680",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0681",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0681",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0682",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0685",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0686",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0686",
+    "company_id": "C024",
+    "reason": "company_over_capacity: C024's own shortlist (53) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0687",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0688",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0688 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0689",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0690",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0691",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0691",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0694",
+    "company_id": "C024",
+    "reason": "company_over_capacity: C024's own shortlist (53) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0697",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0698",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0699",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0701",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0701",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0702",
+    "company_id": "C006",
+    "reason": "company_over_capacity: C006's own shortlist (135) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0703",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0703",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0704",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0704 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0704",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0704 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0704",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0705",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0706",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0706",
+    "company_id": "C006",
+    "reason": "company_over_capacity: C006's own shortlist (135) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0707",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0708",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0709",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0710",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0713",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0715",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0717",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0720",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0721",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0721 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0721",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0723",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0724",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0726",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0727",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0729",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0730",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0730",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0730 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0730",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0731",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0732",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0735",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0735",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0736",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0736",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0742",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0744",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0744",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0745",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0746",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0746",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0747",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0748",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0750",
+    "company_id": "C024",
+    "reason": "company_over_capacity: C024's own shortlist (53) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0754",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0754 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0755",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0756",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0757",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0759",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0761",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0761",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0762",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0762 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0762",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0763",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0764",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0767",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0769",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0769",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0770",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0770",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0770 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0770",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0774",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0774 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0774",
+    "company_id": "C005",
+    "reason": "student_day_conflict: S0774 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0775",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0780",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0781",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0782",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0783",
+    "company_id": "C004",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0786",
+    "company_id": "C002",
+    "reason": "company_over_capacity: C002's own shortlist (122) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0786",
+    "company_id": "C004",
+    "reason": "student_day_conflict: S0786 was shortlisted by 3 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0787",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0787",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0790",
+    "company_id": "C003",
+    "reason": "company_over_capacity: C003's own shortlist (111) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0791",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0792",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0793",
+    "company_id": "C001",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0796",
+    "company_id": "C005",
+    "reason": "room_capacity_exceeded: total room-minutes demanded this day exceeded supply",
+    "day": 1
+  },
+  {
+    "student_id": "S0797",
+    "company_id": "C007",
+    "reason": "company_over_capacity: C007's own shortlist (204) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  },
+  {
+    "student_id": "S0798",
+    "company_id": "C001",
+    "reason": "student_day_conflict: S0798 was shortlisted by 4 companies this day -- some had to lose",
+    "day": 1
+  },
+  {
+    "student_id": "S0798",
+    "company_id": "C006",
+    "reason": "company_over_capacity: C006's own shortlist (135) exceeds its panel capacity for the day even in isolation",
+    "day": 1
+  }
+]

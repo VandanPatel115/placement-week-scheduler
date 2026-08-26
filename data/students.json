@@ -1,0 +1,7595 @@
+[
+  {
+    "student_id": "S0000",
+    "name": "Allison Hill",
+    "cgpa": 7.56,
+    "branch": "EEE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0001",
+    "name": "Noah Rhodes",
+    "cgpa": 6.42,
+    "branch": "ECE",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0002",
+    "name": "Angie Henderson",
+    "cgpa": 7.94,
+    "branch": "ISE",
+    "shortlists": [
+      "C001",
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0003",
+    "name": "Daniel Wagner",
+    "cgpa": 8.1,
+    "branch": "EEE",
+    "shortlists": [
+      "C010",
+      "C020",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0004",
+    "name": "Cristian Santos",
+    "cgpa": 5.64,
+    "branch": "Mech",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0005",
+    "name": "Connie Lawrence",
+    "cgpa": 6.19,
+    "branch": "ECE",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0006",
+    "name": "Abigail Shaffer",
+    "cgpa": 7.41,
+    "branch": "Mech",
+    "shortlists": [
+      "C002",
+      "C003",
+      "C004",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0007",
+    "name": "Gina Moore",
+    "cgpa": 7.03,
+    "branch": "Aero",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0008",
+    "name": "Gabrielle Davis",
+    "cgpa": 7.29,
+    "branch": "ISE",
+    "shortlists": [
+      "C002",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0009",
+    "name": "Ryan Munoz",
+    "cgpa": 6.57,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0010",
+    "name": "Monica Herrera",
+    "cgpa": 8.05,
+    "branch": "CSE",
+    "shortlists": [
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0011",
+    "name": "Jamie Arnold",
+    "cgpa": 7.96,
+    "branch": "Mech",
+    "shortlists": [
+      "C001",
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0012",
+    "name": "Lisa Hensley",
+    "cgpa": 7.36,
+    "branch": "ECE",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0013",
+    "name": "Michele Williams",
+    "cgpa": 8.26,
+    "branch": "ISE",
+    "shortlists": [
+      "C007",
+      "C010",
+      "C023"
+    ]
+  },
+  {
+    "student_id": "S0014",
+    "name": "Dylan Miller",
+    "cgpa": 7.7,
+    "branch": "CSE",
+    "shortlists": [
+      "C004",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0015",
+    "name": "Brian Ramirez",
+    "cgpa": 6.57,
+    "branch": "Chem",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0016",
+    "name": "Holly Wood",
+    "cgpa": 7.61,
+    "branch": "ISE",
+    "shortlists": [
+      "C001"
+    ]
+  },
+  {
+    "student_id": "S0017",
+    "name": "Derek Zuniga",
+    "cgpa": 6.48,
+    "branch": "Mech",
+    "shortlists": [
+      "C004",
+      "C005",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0018",
+    "name": "Lisa Jackson",
+    "cgpa": 8.05,
+    "branch": "CSE",
+    "shortlists": [
+      "C005",
+      "C007",
+      "C016"
+    ]
+  },
+  {
+    "student_id": "S0019",
+    "name": "Carla Gray",
+    "cgpa": 7.26,
+    "branch": "Aero",
+    "shortlists": [
+      "C004",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0020",
+    "name": "Margaret Hawkins DDS",
+    "cgpa": 7.14,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0021",
+    "name": "Patty Perez",
+    "cgpa": 6.72,
+    "branch": "CSE",
+    "shortlists": [
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0022",
+    "name": "Ethan Adams",
+    "cgpa": 8.34,
+    "branch": "Civil",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0023",
+    "name": "Tommy Walter",
+    "cgpa": 7.17,
+    "branch": "Chem",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0024",
+    "name": "Matthew Foster",
+    "cgpa": 6.94,
+    "branch": "CSE",
+    "shortlists": [
+      "C006",
+      "C007",
+      "C014",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0025",
+    "name": "Judy Baker",
+    "cgpa": 7.0,
+    "branch": "ECE",
+    "shortlists": [
+      "C003",
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0026",
+    "name": "Justin Baker",
+    "cgpa": 7.75,
+    "branch": "Mech",
+    "shortlists": [
+      "C001",
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0027",
+    "name": "Stephanie Ross",
+    "cgpa": 7.61,
+    "branch": "Civil",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0028",
+    "name": "Zachary Hicks",
+    "cgpa": 7.65,
+    "branch": "ISE",
+    "shortlists": [
+      "C005",
+      "C006",
+      "C007",
+      "C016",
+      "C019",
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0029",
+    "name": "Anthony Rodriguez",
+    "cgpa": 7.67,
+    "branch": "ECE",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0030",
+    "name": "Rebecca Henderson",
+    "cgpa": 9.12,
+    "branch": "Mech",
+    "shortlists": [
+      "C002",
+      "C006",
+      "C015"
+    ]
+  },
+  {
+    "student_id": "S0031",
+    "name": "James Ferrell",
+    "cgpa": 6.95,
+    "branch": "Mech",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0032",
+    "name": "Tricia Valencia",
+    "cgpa": 6.86,
+    "branch": "Mech",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0033",
+    "name": "Nathan Maldonado",
+    "cgpa": 6.61,
+    "branch": "ECE",
+    "shortlists": [
+      "C001",
+      "C007",
+      "C016",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0034",
+    "name": "Debra Davidson",
+    "cgpa": 7.82,
+    "branch": "CSE",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0035",
+    "name": "Jeffrey Chavez",
+    "cgpa": 8.26,
+    "branch": "Chem",
+    "shortlists": [
+      "C007",
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0036",
+    "name": "Sherri Baker",
+    "cgpa": 7.2,
+    "branch": "Civil",
+    "shortlists": [
+      "C007",
+      "C009"
+    ]
+  },
+  {
+    "student_id": "S0037",
+    "name": "Cassandra Gaines",
+    "cgpa": 6.59,
+    "branch": "Mech",
+    "shortlists": [
+      "C002",
+      "C006",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0038",
+    "name": "Elizabeth Fowler",
+    "cgpa": 6.6,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C003",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0039",
+    "name": "Brittany Farmer",
+    "cgpa": 7.85,
+    "branch": "CSE",
+    "shortlists": [
+      "C003",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0040",
+    "name": "Paula Moreno",
+    "cgpa": 7.93,
+    "branch": "Mech",
+    "shortlists": [
+      "C007",
+      "C020"
+    ]
+  },
+  {
+    "student_id": "S0041",
+    "name": "Fred Smith",
+    "cgpa": 7.76,
+    "branch": "CSE",
+    "shortlists": [
+      "C003",
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0042",
+    "name": "Sherry Decker",
+    "cgpa": 6.73,
+    "branch": "Aero",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0043",
+    "name": "Anthony Humphrey",
+    "cgpa": 7.5,
+    "branch": "ISE",
+    "shortlists": [
+      "C006",
+      "C015"
+    ]
+  },
+  {
+    "student_id": "S0044",
+    "name": "Angelica Tucker",
+    "cgpa": 7.4,
+    "branch": "Mech",
+    "shortlists": [
+      "C003",
+      "C021"
+    ]
+  },
+  {
+    "student_id": "S0045",
+    "name": "Philip Cannon",
+    "cgpa": 7.49,
+    "branch": "Chem",
+    "shortlists": [
+      "C003",
+      "C006",
+      "C022"
+    ]
+  },
+  {
+    "student_id": "S0046",
+    "name": "John Pierce",
+    "cgpa": 8.04,
+    "branch": "ISE",
+    "shortlists": [
+      "C005",
+      "C007",
+      "C020"
+    ]
+  },
+  {
+    "student_id": "S0047",
+    "name": "Shane Henderson",
+    "cgpa": 7.49,
+    "branch": "ISE",
+    "shortlists": [
+      "C006",
+      "C026"
+    ]
+  },
+  {
+    "student_id": "S0048",
+    "name": "Joshua Blair",
+    "cgpa": 7.88,
+    "branch": "EEE",
+    "shortlists": [
+      "C021"
+    ]
+  },
+  {
+    "student_id": "S0049",
+    "name": "Eric Carney",
+    "cgpa": 7.36,
+    "branch": "EEE",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0050",
+    "name": "Jessica Holmes",
+    "cgpa": 7.55,
+    "branch": "ISE",
+    "shortlists": [
+      "C006",
+      "C018"
+    ]
+  },
+  {
+    "student_id": "S0051",
+    "name": "Danny Morgan",
+    "cgpa": 7.84,
+    "branch": "EEE",
+    "shortlists": [
+      "C006",
+      "C019",
+      "C021",
+      "C026"
+    ]
+  },
+  {
+    "student_id": "S0052",
+    "name": "Crystal Robinson",
+    "cgpa": 6.06,
+    "branch": "Chem",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0053",
+    "name": "Mark Perez",
+    "cgpa": 7.03,
+    "branch": "ECE",
+    "shortlists": [
+      "C004",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0054",
+    "name": "Shannon Jones",
+    "cgpa": 6.9,
+    "branch": "CSE",
+    "shortlists": [
+      "C004",
+      "C014"
+    ]
+  },
+  {
+    "student_id": "S0055",
+    "name": "Michael Lewis",
+    "cgpa": 6.76,
+    "branch": "ISE",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0056",
+    "name": "Timothy Duncan",
+    "cgpa": 7.07,
+    "branch": "ISE",
+    "shortlists": [
+      "C001",
+      "C004",
+      "C007",
+      "C014"
+    ]
+  },
+  {
+    "student_id": "S0057",
+    "name": "Richard Aguirre",
+    "cgpa": 8.57,
+    "branch": "CSE",
+    "shortlists": [
+      "C018"
+    ]
+  },
+  {
+    "student_id": "S0058",
+    "name": "Brent Jordan",
+    "cgpa": 6.56,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0059",
+    "name": "John Daniel",
+    "cgpa": 8.12,
+    "branch": "Mech",
+    "shortlists": [
+      "C005",
+      "C018"
+    ]
+  },
+  {
+    "student_id": "S0060",
+    "name": "Victoria Garcia",
+    "cgpa": 5.87,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0061",
+    "name": "Gerald Hensley",
+    "cgpa": 7.02,
+    "branch": "Aero",
+    "shortlists": [
+      "C012"
+    ]
+  },
+  {
+    "student_id": "S0062",
+    "name": "Connor West",
+    "cgpa": 7.44,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C006",
+      "C014"
+    ]
+  },
+  {
+    "student_id": "S0063",
+    "name": "Donald Wright",
+    "cgpa": 7.8,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C002",
+      "C005",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0064",
+    "name": "Jessica Callahan",
+    "cgpa": 7.9,
+    "branch": "Mech",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0065",
+    "name": "Amber Kidd",
+    "cgpa": 7.97,
+    "branch": "Chem",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0066",
+    "name": "Tracy House",
+    "cgpa": 7.0,
+    "branch": "CSE",
+    "shortlists": [
+      "C003",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0067",
+    "name": "Carol Tucker",
+    "cgpa": 6.91,
+    "branch": "CSE",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0068",
+    "name": "James Brown",
+    "cgpa": 8.03,
+    "branch": "CSE",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0069",
+    "name": "William Baker",
+    "cgpa": 7.14,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0070",
+    "name": "Jordan Henderson",
+    "cgpa": 6.22,
+    "branch": "ECE",
+    "shortlists": [
+      "C002",
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0071",
+    "name": "Whitney Peters",
+    "cgpa": 6.34,
+    "branch": "CSE",
+    "shortlists": [
+      "C001"
+    ]
+  },
+  {
+    "student_id": "S0072",
+    "name": "Brittney Phillips",
+    "cgpa": 6.52,
+    "branch": "CSE",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0073",
+    "name": "Lauren Daniels",
+    "cgpa": 7.72,
+    "branch": "ECE",
+    "shortlists": [
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0074",
+    "name": "Amy Silva",
+    "cgpa": 7.42,
+    "branch": "Aero",
+    "shortlists": [
+      "C007",
+      "C022"
+    ]
+  },
+  {
+    "student_id": "S0075",
+    "name": "Sarah Moore",
+    "cgpa": 7.89,
+    "branch": "EEE",
+    "shortlists": [
+      "C007",
+      "C008"
+    ]
+  },
+  {
+    "student_id": "S0076",
+    "name": "Angela Lopez",
+    "cgpa": 6.94,
+    "branch": "ECE",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0077",
+    "name": "Megan Young",
+    "cgpa": 7.43,
+    "branch": "CSE",
+    "shortlists": [
+      "C003",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0078",
+    "name": "Steve Sanchez",
+    "cgpa": 7.83,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C008",
+      "C018"
+    ]
+  },
+  {
+    "student_id": "S0079",
+    "name": "Lisa Barnes",
+    "cgpa": 7.04,
+    "branch": "ISE",
+    "shortlists": [
+      "C003",
+      "C004",
+      "C005",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0080",
+    "name": "Kelly Donovan",
+    "cgpa": 7.69,
+    "branch": "Mech",
+    "shortlists": [
+      "C006",
+      "C007",
+      "C016",
+      "C019",
+      "C026"
+    ]
+  },
+  {
+    "student_id": "S0081",
+    "name": "Mike Allen",
+    "cgpa": 6.74,
+    "branch": "Civil",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0082",
+    "name": "Michael Evans",
+    "cgpa": 6.99,
+    "branch": "Chem",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0083",
+    "name": "Paul Jones",
+    "cgpa": 6.98,
+    "branch": "Aero",
+    "shortlists": [
+      "C007",
+      "C012"
+    ]
+  },
+  {
+    "student_id": "S0084",
+    "name": "Zachary Ferrell",
+    "cgpa": 6.28,
+    "branch": "Aero",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0085",
+    "name": "Daniel Baker",
+    "cgpa": 7.71,
+    "branch": "Aero",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0086",
+    "name": "Shirley Suarez",
+    "cgpa": 6.9,
+    "branch": "CSE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0087",
+    "name": "Christopher Bass",
+    "cgpa": 7.31,
+    "branch": "CSE",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0088",
+    "name": "Lisa Archer",
+    "cgpa": 7.71,
+    "branch": "ISE",
+    "shortlists": [
+      "C002",
+      "C005",
+      "C014",
+      "C021",
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0089",
+    "name": "Aimee Montoya",
+    "cgpa": 7.68,
+    "branch": "ECE",
+    "shortlists": [
+      "C002",
+      "C019",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0090",
+    "name": "Matthew Mcmillan",
+    "cgpa": 7.87,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C007",
+      "C016",
+      "C024",
+      "C026"
+    ]
+  },
+  {
+    "student_id": "S0091",
+    "name": "Brian Rodriguez",
+    "cgpa": 7.22,
+    "branch": "Civil",
+    "shortlists": [
+      "C003",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0092",
+    "name": "Denise Jacobs",
+    "cgpa": 6.94,
+    "branch": "EEE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0093",
+    "name": "Christina Walters",
+    "cgpa": 7.23,
+    "branch": "ECE",
+    "shortlists": [
+      "C001"
+    ]
+  },
+  {
+    "student_id": "S0094",
+    "name": "John Whitehead",
+    "cgpa": 5.87,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0095",
+    "name": "Anna Henderson",
+    "cgpa": 6.07,
+    "branch": "CSE",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0096",
+    "name": "Aaron Wise",
+    "cgpa": 6.18,
+    "branch": "CSE",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0097",
+    "name": "Deborah Figueroa",
+    "cgpa": 6.45,
+    "branch": "Civil",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0098",
+    "name": "Jessica Smith",
+    "cgpa": 7.64,
+    "branch": "EEE",
+    "shortlists": [
+      "C001",
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0099",
+    "name": "Stephen Mckee",
+    "cgpa": 6.53,
+    "branch": "Mech",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0100",
+    "name": "Sandra Aguilar",
+    "cgpa": 6.98,
+    "branch": "ISE",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0101",
+    "name": "Cameron Parker",
+    "cgpa": 8.4,
+    "branch": "ISE",
+    "shortlists": [
+      "C005",
+      "C007",
+      "C035"
+    ]
+  },
+  {
+    "student_id": "S0102",
+    "name": "Rebecca Valencia",
+    "cgpa": 7.0,
+    "branch": "ISE",
+    "shortlists": [
+      "C007",
+      "C013"
+    ]
+  },
+  {
+    "student_id": "S0103",
+    "name": "Christine Wright",
+    "cgpa": 7.93,
+    "branch": "Mech",
+    "shortlists": [
+      "C003",
+      "C004",
+      "C015"
+    ]
+  },
+  {
+    "student_id": "S0104",
+    "name": "Richard Henson",
+    "cgpa": 6.51,
+    "branch": "Mech",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0105",
+    "name": "Marc Moore",
+    "cgpa": 7.13,
+    "branch": "CSE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0106",
+    "name": "Sharon Cherry",
+    "cgpa": 6.49,
+    "branch": "Aero",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0107",
+    "name": "Sierra Johnson",
+    "cgpa": 7.01,
+    "branch": "CSE",
+    "shortlists": [
+      "C006",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0108",
+    "name": "Evelyn Galvan",
+    "cgpa": 8.01,
+    "branch": "Chem",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0109",
+    "name": "Sharon Cochran",
+    "cgpa": 5.83,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0110",
+    "name": "Richard Rodriguez",
+    "cgpa": 7.67,
+    "branch": "CSE",
+    "shortlists": [
+      "C007",
+      "C008"
+    ]
+  },
+  {
+    "student_id": "S0111",
+    "name": "Shannon Walker",
+    "cgpa": 7.5,
+    "branch": "Civil",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0112",
+    "name": "Julia Torres",
+    "cgpa": 6.79,
+    "branch": "CSE",
+    "shortlists": [
+      "C007",
+      "C012"
+    ]
+  },
+  {
+    "student_id": "S0113",
+    "name": "Crystal Johnson",
+    "cgpa": 6.07,
+    "branch": "ISE",
+    "shortlists": [
+      "C002",
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0114",
+    "name": "Garrett Lin",
+    "cgpa": 7.36,
+    "branch": "ECE",
+    "shortlists": [
+      "C002",
+      "C004",
+      "C008",
+      "C027"
+    ]
+  },
+  {
+    "student_id": "S0115",
+    "name": "Diana May",
+    "cgpa": 6.85,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0116",
+    "name": "William Herrera",
+    "cgpa": 7.5,
+    "branch": "Mech",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0117",
+    "name": "Ashley Waller",
+    "cgpa": 7.32,
+    "branch": "Civil",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0118",
+    "name": "Victor Baker",
+    "cgpa": 8.66,
+    "branch": "Civil",
+    "shortlists": [
+      "C009",
+      "C026",
+      "C035"
+    ]
+  },
+  {
+    "student_id": "S0119",
+    "name": "Jeffrey Chandler",
+    "cgpa": 7.1,
+    "branch": "ISE",
+    "shortlists": [
+      "C001"
+    ]
+  },
+  {
+    "student_id": "S0120",
+    "name": "Larry Dixon",
+    "cgpa": 6.43,
+    "branch": "ECE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0121",
+    "name": "Kenneth Scott",
+    "cgpa": 7.45,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0122",
+    "name": "April Frost",
+    "cgpa": 7.49,
+    "branch": "CSE",
+    "shortlists": [
+      "C005",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0123",
+    "name": "Michelle Harmon",
+    "cgpa": 8.46,
+    "branch": "CSE",
+    "shortlists": [
+      "C005",
+      "C011",
+      "C018",
+      "C019",
+      "C022",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0124",
+    "name": "Helen Jones",
+    "cgpa": 8.01,
+    "branch": "Aero",
+    "shortlists": [
+      "C002",
+      "C007",
+      "C016"
+    ]
+  },
+  {
+    "student_id": "S0125",
+    "name": "Erin Edwards",
+    "cgpa": 7.6,
+    "branch": "Chem",
+    "shortlists": [
+      "C003",
+      "C020",
+      "C021",
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0126",
+    "name": "Michelle Evans",
+    "cgpa": 8.54,
+    "branch": "Mech",
+    "shortlists": [
+      "C005",
+      "C006",
+      "C012"
+    ]
+  },
+  {
+    "student_id": "S0127",
+    "name": "Jason Powell",
+    "cgpa": 6.29,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0128",
+    "name": "Cameron Fisher",
+    "cgpa": 6.76,
+    "branch": "ECE",
+    "shortlists": [
+      "C002",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0129",
+    "name": "Megan Orr",
+    "cgpa": 6.51,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0130",
+    "name": "Elizabeth Kelley",
+    "cgpa": 6.97,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0131",
+    "name": "Dustin Jordan",
+    "cgpa": 6.13,
+    "branch": "ECE",
+    "shortlists": [
+      "C002",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0132",
+    "name": "Mary Marshall",
+    "cgpa": 7.84,
+    "branch": "CSE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0133",
+    "name": "Daniel Kennedy",
+    "cgpa": 7.11,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0134",
+    "name": "Rebecca Jackson",
+    "cgpa": 6.05,
+    "branch": "Aero",
+    "shortlists": [
+      "C004",
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0135",
+    "name": "Jose Schultz",
+    "cgpa": 6.44,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0136",
+    "name": "Robert Potter",
+    "cgpa": 7.57,
+    "branch": "Aero",
+    "shortlists": [
+      "C002",
+      "C005",
+      "C007",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0137",
+    "name": "Courtney Gonzalez",
+    "cgpa": 8.01,
+    "branch": "CSE",
+    "shortlists": [
+      "C007",
+      "C010",
+      "C016",
+      "C022",
+      "C027"
+    ]
+  },
+  {
+    "student_id": "S0138",
+    "name": "David Alvarez",
+    "cgpa": 9.0,
+    "branch": "ECE",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0139",
+    "name": "Angel Perry",
+    "cgpa": 9.78,
+    "branch": "CSE",
+    "shortlists": [
+      "C018",
+      "C022"
+    ]
+  },
+  {
+    "student_id": "S0140",
+    "name": "Cheyenne Horton",
+    "cgpa": 7.65,
+    "branch": "CSE",
+    "shortlists": [
+      "C003",
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0141",
+    "name": "David Douglas Jr.",
+    "cgpa": 6.46,
+    "branch": "CSE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0142",
+    "name": "Patricia Rodriguez",
+    "cgpa": 5.49,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0143",
+    "name": "Christopher Rubio",
+    "cgpa": 7.53,
+    "branch": "Chem",
+    "shortlists": [
+      "C003",
+      "C010",
+      "C021",
+      "C023"
+    ]
+  },
+  {
+    "student_id": "S0144",
+    "name": "Amber Wright",
+    "cgpa": 6.61,
+    "branch": "ISE",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0145",
+    "name": "Joyce Solis",
+    "cgpa": 6.95,
+    "branch": "EEE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0146",
+    "name": "Victoria Larson",
+    "cgpa": 6.78,
+    "branch": "ECE",
+    "shortlists": [
+      "C005",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0147",
+    "name": "Stephanie Salazar",
+    "cgpa": 7.18,
+    "branch": "ISE",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0148",
+    "name": "Kathy Rivas",
+    "cgpa": 8.21,
+    "branch": "ECE",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0149",
+    "name": "Stephanie Manning",
+    "cgpa": 7.43,
+    "branch": "CSE",
+    "shortlists": [
+      "C004",
+      "C010",
+      "C016"
+    ]
+  },
+  {
+    "student_id": "S0150",
+    "name": "David Wright",
+    "cgpa": 7.17,
+    "branch": "Aero",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0151",
+    "name": "Pamela Boyd",
+    "cgpa": 6.42,
+    "branch": "Civil",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0152",
+    "name": "Denise Jones",
+    "cgpa": 5.88,
+    "branch": "Mech",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0153",
+    "name": "Devon Flores",
+    "cgpa": 6.89,
+    "branch": "ECE",
+    "shortlists": [
+      "C001",
+      "C009"
+    ]
+  },
+  {
+    "student_id": "S0154",
+    "name": "Brenda Hall",
+    "cgpa": 7.25,
+    "branch": "CSE",
+    "shortlists": [
+      "C004",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0155",
+    "name": "Michelle Brown",
+    "cgpa": 8.8,
+    "branch": "Chem",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0156",
+    "name": "Joshua Perry",
+    "cgpa": 7.41,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0157",
+    "name": "Jason Stein",
+    "cgpa": 8.14,
+    "branch": "CSE",
+    "shortlists": [
+      "C004",
+      "C020",
+      "C027"
+    ]
+  },
+  {
+    "student_id": "S0158",
+    "name": "Melissa Gates",
+    "cgpa": 6.88,
+    "branch": "ISE",
+    "shortlists": [
+      "C002",
+      "C014"
+    ]
+  },
+  {
+    "student_id": "S0159",
+    "name": "Jamie Smith",
+    "cgpa": 6.29,
+    "branch": "Mech",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0160",
+    "name": "Paul Castaneda",
+    "cgpa": 6.48,
+    "branch": "EEE",
+    "shortlists": [
+      "C003",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0161",
+    "name": "Jennifer Adkins",
+    "cgpa": 6.68,
+    "branch": "Mech",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0162",
+    "name": "Lindsey Walker",
+    "cgpa": 9.11,
+    "branch": "Mech",
+    "shortlists": [
+      "C011",
+      "C032"
+    ]
+  },
+  {
+    "student_id": "S0163",
+    "name": "Jeffrey Johnson",
+    "cgpa": 6.6,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0164",
+    "name": "Michael Powell",
+    "cgpa": 8.01,
+    "branch": "Chem",
+    "shortlists": [
+      "C003",
+      "C027"
+    ]
+  },
+  {
+    "student_id": "S0165",
+    "name": "John Anderson",
+    "cgpa": 6.53,
+    "branch": "ECE",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0166",
+    "name": "Alyssa Long",
+    "cgpa": 8.09,
+    "branch": "EEE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0167",
+    "name": "Alyssa Day",
+    "cgpa": 7.63,
+    "branch": "CSE",
+    "shortlists": [
+      "C007",
+      "C015",
+      "C022"
+    ]
+  },
+  {
+    "student_id": "S0168",
+    "name": "Joel Williams",
+    "cgpa": 7.17,
+    "branch": "Aero",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0169",
+    "name": "Daniel Murphy",
+    "cgpa": 7.27,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0170",
+    "name": "Jamie Walton",
+    "cgpa": 6.74,
+    "branch": "CSE",
+    "shortlists": [
+      "C004",
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0171",
+    "name": "Darlene Miller",
+    "cgpa": 7.68,
+    "branch": "ECE",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0172",
+    "name": "Joshua Cooke",
+    "cgpa": 6.91,
+    "branch": "CSE",
+    "shortlists": [
+      "C001"
+    ]
+  },
+  {
+    "student_id": "S0173",
+    "name": "Matthew Harrington",
+    "cgpa": 6.26,
+    "branch": "CSE",
+    "shortlists": [
+      "C004",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0174",
+    "name": "Nicole Herring",
+    "cgpa": 6.21,
+    "branch": "EEE",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0175",
+    "name": "Alex Hernandez",
+    "cgpa": 7.45,
+    "branch": "ISE",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0176",
+    "name": "Michael Elliott",
+    "cgpa": 8.64,
+    "branch": "Chem",
+    "shortlists": [
+      "C005",
+      "C020",
+      "C029"
+    ]
+  },
+  {
+    "student_id": "S0177",
+    "name": "Michael Wang",
+    "cgpa": 7.44,
+    "branch": "ISE",
+    "shortlists": [
+      "C001",
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0178",
+    "name": "Lawrence Adkins",
+    "cgpa": 7.2,
+    "branch": "Mech",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0179",
+    "name": "Robert Oconnell",
+    "cgpa": 7.54,
+    "branch": "ECE",
+    "shortlists": [
+      "C018",
+      "C027"
+    ]
+  },
+  {
+    "student_id": "S0180",
+    "name": "Alexander Collins",
+    "cgpa": 8.41,
+    "branch": "EEE",
+    "shortlists": [
+      "C007",
+      "C013",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0181",
+    "name": "Tina Sanders",
+    "cgpa": 7.49,
+    "branch": "EEE",
+    "shortlists": [
+      "C021",
+      "C026"
+    ]
+  },
+  {
+    "student_id": "S0182",
+    "name": "Angela Vaughn",
+    "cgpa": 6.95,
+    "branch": "ECE",
+    "shortlists": [
+      "C004",
+      "C006",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0183",
+    "name": "Ashley Barton",
+    "cgpa": 8.24,
+    "branch": "Aero",
+    "shortlists": [
+      "C035"
+    ]
+  },
+  {
+    "student_id": "S0184",
+    "name": "Lindsay Martinez",
+    "cgpa": 7.66,
+    "branch": "ISE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0185",
+    "name": "Dr. Hannah Patterson",
+    "cgpa": 8.61,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0186",
+    "name": "Jonathan Peterson",
+    "cgpa": 7.46,
+    "branch": "EEE",
+    "shortlists": [
+      "C003",
+      "C007",
+      "C010"
+    ]
+  },
+  {
+    "student_id": "S0187",
+    "name": "Samantha Garcia",
+    "cgpa": 6.26,
+    "branch": "Civil",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0188",
+    "name": "Madison Poole",
+    "cgpa": 6.14,
+    "branch": "CSE",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0189",
+    "name": "Jessica Gross",
+    "cgpa": 8.7,
+    "branch": "ECE",
+    "shortlists": [
+      "C003",
+      "C004",
+      "C005",
+      "C010",
+      "C017"
+    ]
+  },
+  {
+    "student_id": "S0190",
+    "name": "Debra Morton",
+    "cgpa": 8.77,
+    "branch": "Chem",
+    "shortlists": [
+      "C003",
+      "C006",
+      "C034"
+    ]
+  },
+  {
+    "student_id": "S0191",
+    "name": "Karen Graham",
+    "cgpa": 7.15,
+    "branch": "Mech",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0192",
+    "name": "Debra Christian",
+    "cgpa": 6.97,
+    "branch": "Aero",
+    "shortlists": [
+      "C002",
+      "C003",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0193",
+    "name": "Angelica Keith",
+    "cgpa": 8.54,
+    "branch": "ECE",
+    "shortlists": [
+      "C027"
+    ]
+  },
+  {
+    "student_id": "S0194",
+    "name": "John Bishop",
+    "cgpa": 6.36,
+    "branch": "EEE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0195",
+    "name": "Allen Rosales",
+    "cgpa": 6.54,
+    "branch": "ISE",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0196",
+    "name": "Daniel Salinas",
+    "cgpa": 7.85,
+    "branch": "Aero",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0197",
+    "name": "Spencer Haynes",
+    "cgpa": 6.96,
+    "branch": "ISE",
+    "shortlists": [
+      "C003",
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0198",
+    "name": "Adam Vaughan",
+    "cgpa": 7.3,
+    "branch": "Mech",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0199",
+    "name": "Nathan Freeman",
+    "cgpa": 7.16,
+    "branch": "ISE",
+    "shortlists": [
+      "C003",
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0200",
+    "name": "Melissa Brewer",
+    "cgpa": 7.59,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0201",
+    "name": "Ricky Davis II",
+    "cgpa": 8.5,
+    "branch": "Mech",
+    "shortlists": [
+      "C006",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0202",
+    "name": "Elizabeth Perkins",
+    "cgpa": 7.38,
+    "branch": "ECE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0203",
+    "name": "Joseph Coleman",
+    "cgpa": 7.85,
+    "branch": "Chem",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0204",
+    "name": "Erin Warner",
+    "cgpa": 5.56,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0205",
+    "name": "David Martinez",
+    "cgpa": 7.26,
+    "branch": "EEE",
+    "shortlists": [
+      "C004",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0206",
+    "name": "Bryan Herrera",
+    "cgpa": 6.58,
+    "branch": "ISE",
+    "shortlists": [
+      "C001",
+      "C002",
+      "C003",
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0207",
+    "name": "Cathy Robinson",
+    "cgpa": 6.26,
+    "branch": "ISE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0208",
+    "name": "Dr. William Warren",
+    "cgpa": 6.55,
+    "branch": "ECE",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0209",
+    "name": "Brian Lee",
+    "cgpa": 7.02,
+    "branch": "CSE",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0210",
+    "name": "Christopher Smith",
+    "cgpa": 8.08,
+    "branch": "CSE",
+    "shortlists": [
+      "C005",
+      "C008"
+    ]
+  },
+  {
+    "student_id": "S0211",
+    "name": "Denise Mccann",
+    "cgpa": 6.17,
+    "branch": "EEE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0212",
+    "name": "Melissa Martinez",
+    "cgpa": 7.33,
+    "branch": "EEE",
+    "shortlists": [
+      "C009"
+    ]
+  },
+  {
+    "student_id": "S0213",
+    "name": "Katherine Salas",
+    "cgpa": 6.89,
+    "branch": "EEE",
+    "shortlists": [
+      "C001"
+    ]
+  },
+  {
+    "student_id": "S0214",
+    "name": "Julie Alexander",
+    "cgpa": 7.02,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C004",
+      "C012"
+    ]
+  },
+  {
+    "student_id": "S0215",
+    "name": "Anthony Everett",
+    "cgpa": 8.15,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0216",
+    "name": "Rodney Morales",
+    "cgpa": 7.76,
+    "branch": "CSE",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0217",
+    "name": "Mark Brown",
+    "cgpa": 8.44,
+    "branch": "Mech",
+    "shortlists": [
+      "C005",
+      "C006",
+      "C021",
+      "C025",
+      "C029"
+    ]
+  },
+  {
+    "student_id": "S0218",
+    "name": "Justin Torres",
+    "cgpa": 7.17,
+    "branch": "Civil",
+    "shortlists": [
+      "C001"
+    ]
+  },
+  {
+    "student_id": "S0219",
+    "name": "Bailey Duran DDS",
+    "cgpa": 6.71,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C003",
+      "C006",
+      "C016",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0220",
+    "name": "Courtney Mills",
+    "cgpa": 7.11,
+    "branch": "EEE",
+    "shortlists": [
+      "C004",
+      "C005",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0221",
+    "name": "Jeremy Dalton",
+    "cgpa": 7.51,
+    "branch": "CSE",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0222",
+    "name": "Elizabeth Oliver DDS",
+    "cgpa": 7.45,
+    "branch": "CSE",
+    "shortlists": [
+      "C005",
+      "C010"
+    ]
+  },
+  {
+    "student_id": "S0223",
+    "name": "Theresa Clark",
+    "cgpa": 6.38,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0224",
+    "name": "Matthew Moore",
+    "cgpa": 7.38,
+    "branch": "ISE",
+    "shortlists": [
+      "C010"
+    ]
+  },
+  {
+    "student_id": "S0225",
+    "name": "Benjamin Smith",
+    "cgpa": 7.49,
+    "branch": "EEE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0226",
+    "name": "Kirk Carter",
+    "cgpa": 9.44,
+    "branch": "Chem",
+    "shortlists": [
+      "C001",
+      "C003",
+      "C007",
+      "C018",
+      "C026",
+      "C028",
+      "C032"
+    ]
+  },
+  {
+    "student_id": "S0227",
+    "name": "Michael Warner",
+    "cgpa": 8.9,
+    "branch": "CSE",
+    "shortlists": [
+      "C007",
+      "C012",
+      "C029",
+      "C032",
+      "C033"
+    ]
+  },
+  {
+    "student_id": "S0228",
+    "name": "Michael Bradshaw",
+    "cgpa": 6.57,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0229",
+    "name": "Lori Guerrero",
+    "cgpa": 7.06,
+    "branch": "Mech",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0230",
+    "name": "Jessica Stephens",
+    "cgpa": 6.06,
+    "branch": "Aero",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0231",
+    "name": "Susan Serrano",
+    "cgpa": 6.8,
+    "branch": "EEE",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0232",
+    "name": "Christopher Parker",
+    "cgpa": 7.57,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0233",
+    "name": "Laura Roberts",
+    "cgpa": 8.32,
+    "branch": "EEE",
+    "shortlists": [
+      "C003",
+      "C005",
+      "C007",
+      "C010",
+      "C014"
+    ]
+  },
+  {
+    "student_id": "S0234",
+    "name": "Michael Lyons",
+    "cgpa": 6.68,
+    "branch": "ISE",
+    "shortlists": [
+      "C001",
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0235",
+    "name": "Kathryn Snyder",
+    "cgpa": 6.74,
+    "branch": "Aero",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0236",
+    "name": "Andrew Reynolds",
+    "cgpa": 5.47,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0237",
+    "name": "David Davis",
+    "cgpa": 7.16,
+    "branch": "Mech",
+    "shortlists": [
+      "C002",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0238",
+    "name": "Sara Johnston",
+    "cgpa": 6.4,
+    "branch": "CSE",
+    "shortlists": [
+      "C004",
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0239",
+    "name": "Yvonne Chambers",
+    "cgpa": 6.85,
+    "branch": "ISE",
+    "shortlists": [
+      "C001",
+      "C003",
+      "C004",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0240",
+    "name": "Andrew Avila",
+    "cgpa": 6.55,
+    "branch": "Civil",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0241",
+    "name": "Matthew Moon",
+    "cgpa": 7.22,
+    "branch": "EEE",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0242",
+    "name": "Kevin Walters",
+    "cgpa": 5.81,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0243",
+    "name": "Brandon Bailey MD",
+    "cgpa": 6.05,
+    "branch": "Chem",
+    "shortlists": [
+      "C004",
+      "C005",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0244",
+    "name": "Shannon Rivera",
+    "cgpa": 9.11,
+    "branch": "Civil",
+    "shortlists": [
+      "C001",
+      "C005",
+      "C006",
+      "C029"
+    ]
+  },
+  {
+    "student_id": "S0245",
+    "name": "Donna Landry",
+    "cgpa": 6.21,
+    "branch": "ISE",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0246",
+    "name": "Krista Gibson",
+    "cgpa": 6.37,
+    "branch": "ECE",
+    "shortlists": [
+      "C002",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0247",
+    "name": "Frank Cordova",
+    "cgpa": 8.86,
+    "branch": "ECE",
+    "shortlists": [
+      "C007",
+      "C024",
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0248",
+    "name": "Jose Travis",
+    "cgpa": 9.77,
+    "branch": "EEE",
+    "shortlists": [
+      "C032"
+    ]
+  },
+  {
+    "student_id": "S0249",
+    "name": "Kimberly Gutierrez",
+    "cgpa": 6.3,
+    "branch": "ISE",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0250",
+    "name": "Isaiah Avila",
+    "cgpa": 6.99,
+    "branch": "CSE",
+    "shortlists": [
+      "C006",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0251",
+    "name": "Olivia Harris",
+    "cgpa": 7.59,
+    "branch": "Chem",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0252",
+    "name": "Tanya Kim",
+    "cgpa": 8.77,
+    "branch": "Chem",
+    "shortlists": [
+      "C006",
+      "C012",
+      "C033"
+    ]
+  },
+  {
+    "student_id": "S0253",
+    "name": "Barbara Dudley",
+    "cgpa": 6.46,
+    "branch": "Civil",
+    "shortlists": [
+      "C001",
+      "C002",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0254",
+    "name": "Cynthia Moore",
+    "cgpa": 7.09,
+    "branch": "Aero",
+    "shortlists": [
+      "C001"
+    ]
+  },
+  {
+    "student_id": "S0255",
+    "name": "Kristen Davis",
+    "cgpa": 7.96,
+    "branch": "Mech",
+    "shortlists": [
+      "C003",
+      "C005",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0256",
+    "name": "Susan Murray MD",
+    "cgpa": 7.67,
+    "branch": "Mech",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0257",
+    "name": "Kathleen Moran",
+    "cgpa": 6.98,
+    "branch": "Mech",
+    "shortlists": [
+      "C002",
+      "C003",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0258",
+    "name": "Denise Davenport",
+    "cgpa": 7.19,
+    "branch": "ECE",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0259",
+    "name": "Mrs. Kristen Reyes",
+    "cgpa": 6.13,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0260",
+    "name": "Katie Suarez",
+    "cgpa": 7.1,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0261",
+    "name": "Desiree Tyler",
+    "cgpa": 7.07,
+    "branch": "EEE",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0262",
+    "name": "Timothy Romero",
+    "cgpa": 7.5,
+    "branch": "ISE",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0263",
+    "name": "Diane Evans",
+    "cgpa": 6.83,
+    "branch": "CSE",
+    "shortlists": [
+      "C004",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0264",
+    "name": "Yvonne Burns",
+    "cgpa": 7.7,
+    "branch": "EEE",
+    "shortlists": [
+      "C006",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0265",
+    "name": "Joshua Reed",
+    "cgpa": 8.16,
+    "branch": "ISE",
+    "shortlists": [
+      "C021"
+    ]
+  },
+  {
+    "student_id": "S0266",
+    "name": "Kimberly Gibson",
+    "cgpa": 7.43,
+    "branch": "CSE",
+    "shortlists": [
+      "C003",
+      "C017"
+    ]
+  },
+  {
+    "student_id": "S0267",
+    "name": "Colin Terry",
+    "cgpa": 7.6,
+    "branch": "Civil",
+    "shortlists": [
+      "C014",
+      "C016",
+      "C017",
+      "C024",
+      "C026"
+    ]
+  },
+  {
+    "student_id": "S0268",
+    "name": "Cynthia Rowe",
+    "cgpa": 7.35,
+    "branch": "Civil",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0269",
+    "name": "Patrick Thornton",
+    "cgpa": 7.3,
+    "branch": "CSE",
+    "shortlists": [
+      "C001"
+    ]
+  },
+  {
+    "student_id": "S0270",
+    "name": "Jasmin Alvarado",
+    "cgpa": 6.69,
+    "branch": "CSE",
+    "shortlists": [
+      "C003",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0271",
+    "name": "Veronica Simpson",
+    "cgpa": 7.57,
+    "branch": "ISE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0272",
+    "name": "Jonathan Lawrence",
+    "cgpa": 7.22,
+    "branch": "Mech",
+    "shortlists": [
+      "C004",
+      "C009"
+    ]
+  },
+  {
+    "student_id": "S0273",
+    "name": "Shelly Alexander",
+    "cgpa": 9.08,
+    "branch": "Civil",
+    "shortlists": [
+      "C003",
+      "C006",
+      "C028"
+    ]
+  },
+  {
+    "student_id": "S0274",
+    "name": "Joyce Bowen",
+    "cgpa": 8.64,
+    "branch": "CSE",
+    "shortlists": [
+      "C007",
+      "C014",
+      "C028"
+    ]
+  },
+  {
+    "student_id": "S0275",
+    "name": "Matthew Moore",
+    "cgpa": 7.63,
+    "branch": "Mech",
+    "shortlists": [
+      "C003",
+      "C006",
+      "C021",
+      "C022"
+    ]
+  },
+  {
+    "student_id": "S0276",
+    "name": "Wayne Morgan",
+    "cgpa": 6.65,
+    "branch": "CSE",
+    "shortlists": [
+      "C004",
+      "C006",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0277",
+    "name": "Marie Christian",
+    "cgpa": 6.35,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0278",
+    "name": "Shannon James",
+    "cgpa": 8.31,
+    "branch": "Aero",
+    "shortlists": [
+      "C001"
+    ]
+  },
+  {
+    "student_id": "S0279",
+    "name": "Nathan Malone",
+    "cgpa": 7.52,
+    "branch": "CSE",
+    "shortlists": [
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0280",
+    "name": "Amanda Jones",
+    "cgpa": 7.71,
+    "branch": "CSE",
+    "shortlists": [
+      "C005",
+      "C006",
+      "C007",
+      "C015"
+    ]
+  },
+  {
+    "student_id": "S0281",
+    "name": "Tammie Bright",
+    "cgpa": 5.82,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0282",
+    "name": "Jessica Garcia",
+    "cgpa": 8.09,
+    "branch": "EEE",
+    "shortlists": [
+      "C005",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0283",
+    "name": "Shelia Wallace",
+    "cgpa": 7.69,
+    "branch": "Chem",
+    "shortlists": [
+      "C002",
+      "C006",
+      "C008"
+    ]
+  },
+  {
+    "student_id": "S0284",
+    "name": "Stephanie Williams",
+    "cgpa": 6.36,
+    "branch": "Aero",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0285",
+    "name": "Elaine Brooks",
+    "cgpa": 6.9,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0286",
+    "name": "Joseph Knight",
+    "cgpa": 7.52,
+    "branch": "CSE",
+    "shortlists": [
+      "C005",
+      "C006",
+      "C015",
+      "C027"
+    ]
+  },
+  {
+    "student_id": "S0287",
+    "name": "Carolyn Miller",
+    "cgpa": 7.34,
+    "branch": "Mech",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0288",
+    "name": "Lisa Allen",
+    "cgpa": 7.05,
+    "branch": "CSE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0289",
+    "name": "Briana Murray",
+    "cgpa": 7.21,
+    "branch": "Chem",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0290",
+    "name": "David Smith",
+    "cgpa": 7.09,
+    "branch": "EEE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0291",
+    "name": "Stephanie Byrd",
+    "cgpa": 7.43,
+    "branch": "CSE",
+    "shortlists": [
+      "C003",
+      "C007",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0292",
+    "name": "Jeremy Reed",
+    "cgpa": 8.55,
+    "branch": "Civil",
+    "shortlists": [
+      "C006",
+      "C031"
+    ]
+  },
+  {
+    "student_id": "S0293",
+    "name": "Margaret Coleman",
+    "cgpa": 5.12,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0294",
+    "name": "Ryan Gonzalez",
+    "cgpa": 7.1,
+    "branch": "ECE",
+    "shortlists": [
+      "C004",
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0295",
+    "name": "John Young",
+    "cgpa": 7.45,
+    "branch": "ECE",
+    "shortlists": [
+      "C005",
+      "C007",
+      "C019"
+    ]
+  },
+  {
+    "student_id": "S0296",
+    "name": "Laura Haney",
+    "cgpa": 7.55,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0297",
+    "name": "William Barrett",
+    "cgpa": 6.98,
+    "branch": "Mech",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0298",
+    "name": "Keith Jennings",
+    "cgpa": 5.81,
+    "branch": "EEE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0299",
+    "name": "Amber Obrien",
+    "cgpa": 7.58,
+    "branch": "Aero",
+    "shortlists": [
+      "C003",
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0300",
+    "name": "Tanner Mitchell DDS",
+    "cgpa": 8.77,
+    "branch": "Aero",
+    "shortlists": [
+      "C004",
+      "C007",
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0301",
+    "name": "Heather Fields",
+    "cgpa": 6.0,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0302",
+    "name": "Megan Le",
+    "cgpa": 8.03,
+    "branch": "CSE",
+    "shortlists": [
+      "C007",
+      "C010",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0303",
+    "name": "Sara Fuller",
+    "cgpa": 7.02,
+    "branch": "Mech",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0304",
+    "name": "Maria Parker",
+    "cgpa": 7.25,
+    "branch": "Aero",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0305",
+    "name": "Kevin Oconnor",
+    "cgpa": 6.41,
+    "branch": "ISE",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0306",
+    "name": "Edward Burgess",
+    "cgpa": 7.02,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0307",
+    "name": "Carlos Ryan",
+    "cgpa": 8.41,
+    "branch": "ECE",
+    "shortlists": [
+      "C002",
+      "C026"
+    ]
+  },
+  {
+    "student_id": "S0308",
+    "name": "Kiara Mcintyre",
+    "cgpa": 7.8,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C003",
+      "C006",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0309",
+    "name": "Dawn Summers",
+    "cgpa": 8.77,
+    "branch": "EEE",
+    "shortlists": [
+      "C004",
+      "C005",
+      "C006",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0310",
+    "name": "Dr. Paul Morgan",
+    "cgpa": 8.3,
+    "branch": "ISE",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0311",
+    "name": "Victor Taylor",
+    "cgpa": 7.67,
+    "branch": "Mech",
+    "shortlists": [
+      "C006",
+      "C013",
+      "C020"
+    ]
+  },
+  {
+    "student_id": "S0312",
+    "name": "Shannon Ramsey",
+    "cgpa": 8.78,
+    "branch": "Civil",
+    "shortlists": [
+      "C001",
+      "C002",
+      "C007",
+      "C016",
+      "C020",
+      "C034",
+      "C035"
+    ]
+  },
+  {
+    "student_id": "S0313",
+    "name": "Tracy Ballard",
+    "cgpa": 7.67,
+    "branch": "Civil",
+    "shortlists": [
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0314",
+    "name": "Richard Smith",
+    "cgpa": 8.0,
+    "branch": "ISE",
+    "shortlists": [
+      "C001",
+      "C010"
+    ]
+  },
+  {
+    "student_id": "S0315",
+    "name": "Jordan Chambers",
+    "cgpa": 7.05,
+    "branch": "ISE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0316",
+    "name": "Lauren Carson",
+    "cgpa": 7.36,
+    "branch": "Mech",
+    "shortlists": [
+      "C001",
+      "C006",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0317",
+    "name": "Ashley Hall",
+    "cgpa": 6.71,
+    "branch": "Civil",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0318",
+    "name": "Stephen Hoffman",
+    "cgpa": 8.14,
+    "branch": "ECE",
+    "shortlists": [
+      "C002",
+      "C008"
+    ]
+  },
+  {
+    "student_id": "S0319",
+    "name": "Connie Brown",
+    "cgpa": 6.3,
+    "branch": "Chem",
+    "shortlists": [
+      "C003",
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0320",
+    "name": "Susan Turner",
+    "cgpa": 7.96,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0321",
+    "name": "Charles Shah",
+    "cgpa": 7.14,
+    "branch": "Civil",
+    "shortlists": [
+      "C003",
+      "C006",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0322",
+    "name": "Johnathan Davis",
+    "cgpa": 8.3,
+    "branch": "CSE",
+    "shortlists": [
+      "C004",
+      "C006",
+      "C009"
+    ]
+  },
+  {
+    "student_id": "S0323",
+    "name": "Brandy Chavez",
+    "cgpa": 7.94,
+    "branch": "CSE",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0324",
+    "name": "Natalie Bautista",
+    "cgpa": 8.85,
+    "branch": "ECE",
+    "shortlists": [
+      "C001",
+      "C004",
+      "C024",
+      "C028",
+      "C031"
+    ]
+  },
+  {
+    "student_id": "S0325",
+    "name": "Patrick Moore",
+    "cgpa": 7.92,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0326",
+    "name": "Brett Burns",
+    "cgpa": 5.96,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0327",
+    "name": "Trevor Johnson",
+    "cgpa": 7.24,
+    "branch": "CSE",
+    "shortlists": [
+      "C004",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0328",
+    "name": "Jeremy Sampson",
+    "cgpa": 6.3,
+    "branch": "ECE",
+    "shortlists": [
+      "C001",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0329",
+    "name": "Ariana Jennings",
+    "cgpa": 6.86,
+    "branch": "Mech",
+    "shortlists": [
+      "C002",
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0330",
+    "name": "Vanessa Howard",
+    "cgpa": 8.58,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C002",
+      "C003",
+      "C006",
+      "C022"
+    ]
+  },
+  {
+    "student_id": "S0331",
+    "name": "Colton Martinez",
+    "cgpa": 7.84,
+    "branch": "EEE",
+    "shortlists": [
+      "C001",
+      "C003",
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0332",
+    "name": "Jordan Bates",
+    "cgpa": 6.71,
+    "branch": "Civil",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0333",
+    "name": "Linda Smith",
+    "cgpa": 6.44,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0334",
+    "name": "Dana Martinez",
+    "cgpa": 7.33,
+    "branch": "CSE",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0335",
+    "name": "Andrea Hubbard",
+    "cgpa": 6.27,
+    "branch": "Civil",
+    "shortlists": [
+      "C002",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0336",
+    "name": "Daniel Kane",
+    "cgpa": 6.73,
+    "branch": "Civil",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0337",
+    "name": "Charles Lester",
+    "cgpa": 7.57,
+    "branch": "ECE",
+    "shortlists": [
+      "C002",
+      "C004",
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0338",
+    "name": "Scott Thomas",
+    "cgpa": 8.28,
+    "branch": "Civil",
+    "shortlists": [
+      "C003",
+      "C005",
+      "C014"
+    ]
+  },
+  {
+    "student_id": "S0339",
+    "name": "David Thompson",
+    "cgpa": 7.82,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C009",
+      "C024",
+      "C026"
+    ]
+  },
+  {
+    "student_id": "S0340",
+    "name": "Allison Smith",
+    "cgpa": 5.35,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0341",
+    "name": "Cynthia Morris",
+    "cgpa": 7.56,
+    "branch": "Mech",
+    "shortlists": [
+      "C002",
+      "C004",
+      "C016"
+    ]
+  },
+  {
+    "student_id": "S0342",
+    "name": "Anthony Harmon",
+    "cgpa": 7.36,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0343",
+    "name": "Nichole Alvarez",
+    "cgpa": 7.65,
+    "branch": "Mech",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0344",
+    "name": "Kayla Rodriguez",
+    "cgpa": 8.67,
+    "branch": "ECE",
+    "shortlists": [
+      "C015",
+      "C016",
+      "C031"
+    ]
+  },
+  {
+    "student_id": "S0345",
+    "name": "Theresa Williams",
+    "cgpa": 5.55,
+    "branch": "Mech",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0346",
+    "name": "Sharon Boyd",
+    "cgpa": 6.8,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0347",
+    "name": "Victor Brown",
+    "cgpa": 7.8,
+    "branch": "ISE",
+    "shortlists": [
+      "C007",
+      "C018"
+    ]
+  },
+  {
+    "student_id": "S0348",
+    "name": "James Parks",
+    "cgpa": 5.96,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0349",
+    "name": "Theodore Jones Jr.",
+    "cgpa": 8.55,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C003",
+      "C006",
+      "C010"
+    ]
+  },
+  {
+    "student_id": "S0350",
+    "name": "Ana Hill",
+    "cgpa": 7.61,
+    "branch": "Mech",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0351",
+    "name": "Kimberly Nguyen",
+    "cgpa": 8.02,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C005",
+      "C007",
+      "C008",
+      "C026"
+    ]
+  },
+  {
+    "student_id": "S0352",
+    "name": "Kerry Chavez DDS",
+    "cgpa": 6.81,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0353",
+    "name": "Michael Farrell",
+    "cgpa": 7.99,
+    "branch": "CSE",
+    "shortlists": [
+      "C004",
+      "C010"
+    ]
+  },
+  {
+    "student_id": "S0354",
+    "name": "Patricia Le",
+    "cgpa": 8.21,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C004",
+      "C016"
+    ]
+  },
+  {
+    "student_id": "S0355",
+    "name": "Jesse Perez",
+    "cgpa": 7.5,
+    "branch": "Civil",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0356",
+    "name": "Jesse Perry",
+    "cgpa": 7.5,
+    "branch": "ISE",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0357",
+    "name": "Jeffery Ortega",
+    "cgpa": 7.53,
+    "branch": "Aero",
+    "shortlists": [
+      "C001",
+      "C004",
+      "C007",
+      "C010",
+      "C013"
+    ]
+  },
+  {
+    "student_id": "S0358",
+    "name": "Christian Leblanc",
+    "cgpa": 6.57,
+    "branch": "CSE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0359",
+    "name": "Ronald Davis",
+    "cgpa": 7.17,
+    "branch": "EEE",
+    "shortlists": [
+      "C027"
+    ]
+  },
+  {
+    "student_id": "S0360",
+    "name": "Parker Cain",
+    "cgpa": 7.17,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0361",
+    "name": "Laurie Hoffman",
+    "cgpa": 7.63,
+    "branch": "ISE",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0362",
+    "name": "Bryan Gomez",
+    "cgpa": 8.15,
+    "branch": "Civil",
+    "shortlists": [
+      "C004",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0363",
+    "name": "Nicole Parrish",
+    "cgpa": 6.4,
+    "branch": "Aero",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0364",
+    "name": "Tracy Burke",
+    "cgpa": 7.19,
+    "branch": "Civil",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0365",
+    "name": "Kenneth Lewis",
+    "cgpa": 8.56,
+    "branch": "CSE",
+    "shortlists": [
+      "C005",
+      "C006",
+      "C017"
+    ]
+  },
+  {
+    "student_id": "S0366",
+    "name": "Courtney Rodriguez",
+    "cgpa": 6.67,
+    "branch": "CSE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0367",
+    "name": "Holly Farmer",
+    "cgpa": 6.6,
+    "branch": "EEE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0368",
+    "name": "Renee Bruce",
+    "cgpa": 7.47,
+    "branch": "ISE",
+    "shortlists": [
+      "C011"
+    ]
+  },
+  {
+    "student_id": "S0369",
+    "name": "Sabrina Austin",
+    "cgpa": 8.02,
+    "branch": "Mech",
+    "shortlists": [
+      "C002",
+      "C005",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0370",
+    "name": "Allison Hickman",
+    "cgpa": 7.31,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0371",
+    "name": "Debra White",
+    "cgpa": 8.43,
+    "branch": "ECE",
+    "shortlists": [
+      "C006",
+      "C013",
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0372",
+    "name": "Ellen Morgan",
+    "cgpa": 8.03,
+    "branch": "Civil",
+    "shortlists": [
+      "C002",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0373",
+    "name": "Sergio Knight",
+    "cgpa": 8.02,
+    "branch": "Mech",
+    "shortlists": [
+      "C004",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0374",
+    "name": "Charles Schultz",
+    "cgpa": 7.77,
+    "branch": "CSE",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0375",
+    "name": "Paul Lewis",
+    "cgpa": 9.28,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C007",
+      "C021"
+    ]
+  },
+  {
+    "student_id": "S0376",
+    "name": "Glen Wood",
+    "cgpa": 7.13,
+    "branch": "EEE",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0377",
+    "name": "Paula Bradley",
+    "cgpa": 5.6,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0378",
+    "name": "Anthony Moore",
+    "cgpa": 8.66,
+    "branch": "CSE",
+    "shortlists": [
+      "C011",
+      "C020"
+    ]
+  },
+  {
+    "student_id": "S0379",
+    "name": "Megan Nelson",
+    "cgpa": 6.91,
+    "branch": "ISE",
+    "shortlists": [
+      "C002",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0380",
+    "name": "Karla Ramos",
+    "cgpa": 7.39,
+    "branch": "Mech",
+    "shortlists": [
+      "C001",
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0381",
+    "name": "Paul Wilson",
+    "cgpa": 8.41,
+    "branch": "Civil",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0382",
+    "name": "Douglas Gregory",
+    "cgpa": 5.94,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0383",
+    "name": "Mr. Andrew Foster",
+    "cgpa": 6.24,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0384",
+    "name": "Aimee Turner",
+    "cgpa": 5.94,
+    "branch": "CSE",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0385",
+    "name": "Chad Scott",
+    "cgpa": 6.62,
+    "branch": "ECE",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0386",
+    "name": "Adam Burgess",
+    "cgpa": 7.67,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0387",
+    "name": "James Padilla",
+    "cgpa": 7.75,
+    "branch": "ECE",
+    "shortlists": [
+      "C002",
+      "C003",
+      "C005",
+      "C017"
+    ]
+  },
+  {
+    "student_id": "S0388",
+    "name": "Sandra Drake",
+    "cgpa": 7.53,
+    "branch": "EEE",
+    "shortlists": [
+      "C017"
+    ]
+  },
+  {
+    "student_id": "S0389",
+    "name": "Scott Williams",
+    "cgpa": 6.1,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0390",
+    "name": "Thomas Atkins",
+    "cgpa": 5.34,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0391",
+    "name": "Laura Mckinney",
+    "cgpa": 7.35,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C004",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0392",
+    "name": "Brian Smith",
+    "cgpa": 6.9,
+    "branch": "Chem",
+    "shortlists": [
+      "C001",
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0393",
+    "name": "Robert Montgomery",
+    "cgpa": 7.69,
+    "branch": "EEE",
+    "shortlists": [
+      "C004",
+      "C005",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0394",
+    "name": "Tamara Davis",
+    "cgpa": 7.9,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C002",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0395",
+    "name": "Dana Chapman",
+    "cgpa": 7.42,
+    "branch": "Chem",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0396",
+    "name": "Jennifer Collins",
+    "cgpa": 7.95,
+    "branch": "ECE",
+    "shortlists": [
+      "C001"
+    ]
+  },
+  {
+    "student_id": "S0397",
+    "name": "Gary Jackson",
+    "cgpa": 7.49,
+    "branch": "ECE",
+    "shortlists": [
+      "C001"
+    ]
+  },
+  {
+    "student_id": "S0398",
+    "name": "Ashley Hicks",
+    "cgpa": 7.75,
+    "branch": "Chem",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0399",
+    "name": "Hannah Luna",
+    "cgpa": 6.7,
+    "branch": "CSE",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0400",
+    "name": "Robin Young",
+    "cgpa": 7.15,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C006",
+      "C007",
+      "C014"
+    ]
+  },
+  {
+    "student_id": "S0401",
+    "name": "Craig Morrison",
+    "cgpa": 7.47,
+    "branch": "EEE",
+    "shortlists": [
+      "C005",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0402",
+    "name": "Mary Thompson",
+    "cgpa": 8.0,
+    "branch": "CSE",
+    "shortlists": [
+      "C003",
+      "C005",
+      "C008"
+    ]
+  },
+  {
+    "student_id": "S0403",
+    "name": "Kathleen Webster",
+    "cgpa": 6.97,
+    "branch": "EEE",
+    "shortlists": [
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0404",
+    "name": "Joann Glass",
+    "cgpa": 7.74,
+    "branch": "CSE",
+    "shortlists": [
+      "C026"
+    ]
+  },
+  {
+    "student_id": "S0405",
+    "name": "Madison Weber",
+    "cgpa": 7.07,
+    "branch": "CSE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0406",
+    "name": "Lori Hernandez",
+    "cgpa": 7.2,
+    "branch": "CSE",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0407",
+    "name": "Jeremy Turner",
+    "cgpa": 8.01,
+    "branch": "ECE",
+    "shortlists": [
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0408",
+    "name": "Anthony Romero",
+    "cgpa": 5.61,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0409",
+    "name": "Jesse Brown",
+    "cgpa": 6.2,
+    "branch": "CSE",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0410",
+    "name": "Angela Lin",
+    "cgpa": 6.04,
+    "branch": "Civil",
+    "shortlists": [
+      "C004",
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0411",
+    "name": "Lisa Hunter",
+    "cgpa": 5.32,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0412",
+    "name": "Julian Conner",
+    "cgpa": 6.72,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0413",
+    "name": "Joanna Pacheco",
+    "cgpa": 7.94,
+    "branch": "CSE",
+    "shortlists": [
+      "C006",
+      "C007",
+      "C018"
+    ]
+  },
+  {
+    "student_id": "S0414",
+    "name": "Erica Alvarez",
+    "cgpa": 7.06,
+    "branch": "ISE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0415",
+    "name": "Antonio Garcia",
+    "cgpa": 7.47,
+    "branch": "CSE",
+    "shortlists": [
+      "C008",
+      "C010"
+    ]
+  },
+  {
+    "student_id": "S0416",
+    "name": "Gwendolyn Klein",
+    "cgpa": 8.23,
+    "branch": "EEE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0417",
+    "name": "Carrie Wright",
+    "cgpa": 8.43,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C007",
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0418",
+    "name": "Jeffrey Mills",
+    "cgpa": 7.24,
+    "branch": "Chem",
+    "shortlists": [
+      "C003",
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0419",
+    "name": "Jake Campbell",
+    "cgpa": 8.45,
+    "branch": "Chem",
+    "shortlists": [
+      "C005",
+      "C020"
+    ]
+  },
+  {
+    "student_id": "S0420",
+    "name": "George Harper",
+    "cgpa": 7.38,
+    "branch": "CSE",
+    "shortlists": [
+      "C003",
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0421",
+    "name": "Maria Jones",
+    "cgpa": 6.59,
+    "branch": "CSE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0422",
+    "name": "Michael Mitchell",
+    "cgpa": 6.79,
+    "branch": "CSE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0423",
+    "name": "Mary Escobar",
+    "cgpa": 6.04,
+    "branch": "EEE",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0424",
+    "name": "Felicia Aguilar",
+    "cgpa": 6.55,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0425",
+    "name": "Gregory Ponce",
+    "cgpa": 7.0,
+    "branch": "Civil",
+    "shortlists": [
+      "C001",
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0426",
+    "name": "Jenna Larson",
+    "cgpa": 7.98,
+    "branch": "Mech",
+    "shortlists": [
+      "C002",
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0427",
+    "name": "Emily Bennett",
+    "cgpa": 8.76,
+    "branch": "Civil",
+    "shortlists": [
+      "C001",
+      "C007",
+      "C014",
+      "C019"
+    ]
+  },
+  {
+    "student_id": "S0428",
+    "name": "Robin Santiago",
+    "cgpa": 6.13,
+    "branch": "ECE",
+    "shortlists": [
+      "C003",
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0429",
+    "name": "Nancy Jennings",
+    "cgpa": 7.63,
+    "branch": "Aero",
+    "shortlists": [
+      "C010",
+      "C021"
+    ]
+  },
+  {
+    "student_id": "S0430",
+    "name": "Maria Henderson",
+    "cgpa": 6.42,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0431",
+    "name": "Jack White",
+    "cgpa": 7.7,
+    "branch": "ISE",
+    "shortlists": [
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0432",
+    "name": "Travis Tucker",
+    "cgpa": 7.19,
+    "branch": "ISE",
+    "shortlists": [
+      "C005",
+      "C010",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0433",
+    "name": "Chad Jones",
+    "cgpa": 5.74,
+    "branch": "Aero",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0434",
+    "name": "Ashley Wise",
+    "cgpa": 8.09,
+    "branch": "ECE",
+    "shortlists": [
+      "C013",
+      "C018",
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0435",
+    "name": "Sophia Johnson",
+    "cgpa": 6.79,
+    "branch": "Civil",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0436",
+    "name": "Ralph Anderson",
+    "cgpa": 6.85,
+    "branch": "CSE",
+    "shortlists": [
+      "C004",
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0437",
+    "name": "Christopher Guerra",
+    "cgpa": 6.39,
+    "branch": "Aero",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0438",
+    "name": "Rhonda Martin",
+    "cgpa": 6.74,
+    "branch": "ECE",
+    "shortlists": [
+      "C001",
+      "C004",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0439",
+    "name": "Jason Rhodes",
+    "cgpa": 7.66,
+    "branch": "ECE",
+    "shortlists": [
+      "C008"
+    ]
+  },
+  {
+    "student_id": "S0440",
+    "name": "Jeremy Mitchell",
+    "cgpa": 7.14,
+    "branch": "Aero",
+    "shortlists": [
+      "C003",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0441",
+    "name": "Joann Ferguson",
+    "cgpa": 7.58,
+    "branch": "ISE",
+    "shortlists": [
+      "C001",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0442",
+    "name": "Robert Harrison",
+    "cgpa": 7.61,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0443",
+    "name": "Holly Valentine",
+    "cgpa": 8.42,
+    "branch": "EEE",
+    "shortlists": [
+      "C002",
+      "C003",
+      "C011",
+      "C031"
+    ]
+  },
+  {
+    "student_id": "S0444",
+    "name": "Mrs. Diane Reyes",
+    "cgpa": 7.01,
+    "branch": "CSE",
+    "shortlists": [
+      "C006",
+      "C007",
+      "C016"
+    ]
+  },
+  {
+    "student_id": "S0445",
+    "name": "Tracy Montoya",
+    "cgpa": 6.04,
+    "branch": "ISE",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0446",
+    "name": "Brenda Wright",
+    "cgpa": 8.21,
+    "branch": "CSE",
+    "shortlists": [
+      "C003",
+      "C015",
+      "C035"
+    ]
+  },
+  {
+    "student_id": "S0447",
+    "name": "Shelly Spencer",
+    "cgpa": 7.02,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0448",
+    "name": "Ryan Rosales",
+    "cgpa": 8.25,
+    "branch": "Civil",
+    "shortlists": [
+      "C004",
+      "C007",
+      "C017",
+      "C026"
+    ]
+  },
+  {
+    "student_id": "S0449",
+    "name": "Phillip Nelson",
+    "cgpa": 7.63,
+    "branch": "EEE",
+    "shortlists": [
+      "C003",
+      "C004",
+      "C006",
+      "C021"
+    ]
+  },
+  {
+    "student_id": "S0450",
+    "name": "Brittany Kim",
+    "cgpa": 7.19,
+    "branch": "ISE",
+    "shortlists": [
+      "C001",
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0451",
+    "name": "Courtney Hayes",
+    "cgpa": 7.6,
+    "branch": "ISE",
+    "shortlists": [
+      "C002",
+      "C027"
+    ]
+  },
+  {
+    "student_id": "S0452",
+    "name": "Alexander Brown",
+    "cgpa": 8.96,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0453",
+    "name": "Cynthia Vang",
+    "cgpa": 9.07,
+    "branch": "EEE",
+    "shortlists": [
+      "C007",
+      "C019"
+    ]
+  },
+  {
+    "student_id": "S0454",
+    "name": "Alfred Galvan",
+    "cgpa": 7.36,
+    "branch": "Chem",
+    "shortlists": [
+      "C001",
+      "C003",
+      "C019"
+    ]
+  },
+  {
+    "student_id": "S0455",
+    "name": "Marie Moody",
+    "cgpa": 7.44,
+    "branch": "Chem",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0456",
+    "name": "Dustin Gallegos",
+    "cgpa": 8.21,
+    "branch": "ISE",
+    "shortlists": [
+      "C007",
+      "C011",
+      "C021"
+    ]
+  },
+  {
+    "student_id": "S0457",
+    "name": "Brenda Thornton",
+    "cgpa": 6.58,
+    "branch": "ISE",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0458",
+    "name": "Aaron Miller",
+    "cgpa": 7.58,
+    "branch": "ECE",
+    "shortlists": [
+      "C002",
+      "C003",
+      "C007",
+      "C022"
+    ]
+  },
+  {
+    "student_id": "S0459",
+    "name": "Ruben Dunn",
+    "cgpa": 7.28,
+    "branch": "ECE",
+    "shortlists": [
+      "C001"
+    ]
+  },
+  {
+    "student_id": "S0460",
+    "name": "Kelsey Rodriguez",
+    "cgpa": 7.57,
+    "branch": "ECE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0461",
+    "name": "Eric Williams",
+    "cgpa": 6.59,
+    "branch": "EEE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0462",
+    "name": "Riley Bryant",
+    "cgpa": 5.95,
+    "branch": "ECE",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0463",
+    "name": "Taylor Carlson",
+    "cgpa": 5.54,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0464",
+    "name": "Jose Allen",
+    "cgpa": 6.35,
+    "branch": "ISE",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0465",
+    "name": "Jeffrey Mendez",
+    "cgpa": 6.91,
+    "branch": "ISE",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0466",
+    "name": "Jason Beck",
+    "cgpa": 7.05,
+    "branch": "CSE",
+    "shortlists": [
+      "C001"
+    ]
+  },
+  {
+    "student_id": "S0467",
+    "name": "William Jones",
+    "cgpa": 8.95,
+    "branch": "CSE",
+    "shortlists": [
+      "C001"
+    ]
+  },
+  {
+    "student_id": "S0468",
+    "name": "Katie Mcneil",
+    "cgpa": 8.24,
+    "branch": "Mech",
+    "shortlists": [
+      "C003",
+      "C007",
+      "C016",
+      "C023"
+    ]
+  },
+  {
+    "student_id": "S0469",
+    "name": "Jeanette Harrison",
+    "cgpa": 6.48,
+    "branch": "ISE",
+    "shortlists": [
+      "C002",
+      "C004",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0470",
+    "name": "Veronica King",
+    "cgpa": 7.6,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C004",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0471",
+    "name": "Richard Cooper",
+    "cgpa": 6.95,
+    "branch": "ECE",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0472",
+    "name": "Lori Ingram",
+    "cgpa": 7.06,
+    "branch": "Mech",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0473",
+    "name": "Evelyn Williams",
+    "cgpa": 7.46,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0474",
+    "name": "Robin Thompson",
+    "cgpa": 7.83,
+    "branch": "Civil",
+    "shortlists": [
+      "C006",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0475",
+    "name": "Julie Dominguez",
+    "cgpa": 7.01,
+    "branch": "Chem",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0476",
+    "name": "Robin Brown",
+    "cgpa": 8.2,
+    "branch": "EEE",
+    "shortlists": [
+      "C007",
+      "C010",
+      "C021",
+      "C022",
+      "C026"
+    ]
+  },
+  {
+    "student_id": "S0477",
+    "name": "Judith Carter",
+    "cgpa": 6.33,
+    "branch": "EEE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0478",
+    "name": "Curtis Williams",
+    "cgpa": 7.31,
+    "branch": "CSE",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0479",
+    "name": "Kaylee Hays",
+    "cgpa": 9.51,
+    "branch": "Aero",
+    "shortlists": [
+      "C002",
+      "C006",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0480",
+    "name": "Dawn Mullins",
+    "cgpa": 7.49,
+    "branch": "ISE",
+    "shortlists": [
+      "C001"
+    ]
+  },
+  {
+    "student_id": "S0481",
+    "name": "Howard Norman",
+    "cgpa": 8.52,
+    "branch": "Chem",
+    "shortlists": [
+      "C002",
+      "C003",
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0482",
+    "name": "Evelyn Martinez",
+    "cgpa": 7.38,
+    "branch": "ECE",
+    "shortlists": [
+      "C003",
+      "C004",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0483",
+    "name": "Steve Paul",
+    "cgpa": 7.79,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0484",
+    "name": "Jasmine Beltran",
+    "cgpa": 7.25,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0485",
+    "name": "Jonathan Glass MD",
+    "cgpa": 7.16,
+    "branch": "Mech",
+    "shortlists": [
+      "C007",
+      "C012"
+    ]
+  },
+  {
+    "student_id": "S0486",
+    "name": "Monica Miller",
+    "cgpa": 6.64,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0487",
+    "name": "Samantha Gardner",
+    "cgpa": 7.67,
+    "branch": "CSE",
+    "shortlists": [
+      "C006",
+      "C023"
+    ]
+  },
+  {
+    "student_id": "S0488",
+    "name": "Bobby Guerrero",
+    "cgpa": 6.58,
+    "branch": "Mech",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0489",
+    "name": "Lance Simmons",
+    "cgpa": 7.87,
+    "branch": "Civil",
+    "shortlists": [
+      "C006",
+      "C007",
+      "C026"
+    ]
+  },
+  {
+    "student_id": "S0490",
+    "name": "Heather Williams",
+    "cgpa": 8.22,
+    "branch": "ECE",
+    "shortlists": [
+      "C002",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0491",
+    "name": "Heather Bolton",
+    "cgpa": 7.61,
+    "branch": "ECE",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0492",
+    "name": "William Gould",
+    "cgpa": 7.06,
+    "branch": "CSE",
+    "shortlists": [
+      "C001"
+    ]
+  },
+  {
+    "student_id": "S0493",
+    "name": "Mark Cox",
+    "cgpa": 7.69,
+    "branch": "Mech",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0494",
+    "name": "Meghan Cisneros",
+    "cgpa": 7.04,
+    "branch": "ISE",
+    "shortlists": [
+      "C005",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0495",
+    "name": "Lawrence Harrington",
+    "cgpa": 8.1,
+    "branch": "Civil",
+    "shortlists": [
+      "C010",
+      "C026"
+    ]
+  },
+  {
+    "student_id": "S0496",
+    "name": "Austin Osborne",
+    "cgpa": 5.74,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0497",
+    "name": "James Bradley",
+    "cgpa": 7.01,
+    "branch": "ECE",
+    "shortlists": [
+      "C014"
+    ]
+  },
+  {
+    "student_id": "S0498",
+    "name": "Meghan Rush",
+    "cgpa": 5.61,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0499",
+    "name": "Phillip Berry",
+    "cgpa": 6.03,
+    "branch": "CSE",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0500",
+    "name": "Jennifer Banks",
+    "cgpa": 8.46,
+    "branch": "Mech",
+    "shortlists": [
+      "C003",
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0501",
+    "name": "Brian Fitzgerald",
+    "cgpa": 8.06,
+    "branch": "ECE",
+    "shortlists": [
+      "C002",
+      "C005",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0502",
+    "name": "Mr. Justin Green III",
+    "cgpa": 6.69,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0503",
+    "name": "Zachary Mitchell",
+    "cgpa": 6.02,
+    "branch": "Aero",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0504",
+    "name": "Katherine Martinez",
+    "cgpa": 5.0,
+    "branch": "Aero",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0505",
+    "name": "Jodi Roach",
+    "cgpa": 6.84,
+    "branch": "Civil",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0506",
+    "name": "Brandon Fleming",
+    "cgpa": 9.36,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C005",
+      "C006",
+      "C028"
+    ]
+  },
+  {
+    "student_id": "S0507",
+    "name": "Emma Reed",
+    "cgpa": 7.67,
+    "branch": "EEE",
+    "shortlists": [
+      "C002",
+      "C007",
+      "C021"
+    ]
+  },
+  {
+    "student_id": "S0508",
+    "name": "Joshua Vance",
+    "cgpa": 6.82,
+    "branch": "Civil",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0509",
+    "name": "Michelle Ho",
+    "cgpa": 7.7,
+    "branch": "ISE",
+    "shortlists": [
+      "C001",
+      "C003",
+      "C007",
+      "C010",
+      "C026"
+    ]
+  },
+  {
+    "student_id": "S0510",
+    "name": "Rebecca Hicks",
+    "cgpa": 5.97,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0511",
+    "name": "Curtis Taylor",
+    "cgpa": 7.05,
+    "branch": "Civil",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0512",
+    "name": "Allison Spencer",
+    "cgpa": 7.38,
+    "branch": "ECE",
+    "shortlists": [
+      "C011"
+    ]
+  },
+  {
+    "student_id": "S0513",
+    "name": "Robert Arnold",
+    "cgpa": 7.23,
+    "branch": "ECE",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0514",
+    "name": "Angelica Parker",
+    "cgpa": 7.97,
+    "branch": "Aero",
+    "shortlists": [
+      "C010"
+    ]
+  },
+  {
+    "student_id": "S0515",
+    "name": "Dr. Kelly Hammond DVM",
+    "cgpa": 7.59,
+    "branch": "EEE",
+    "shortlists": [
+      "C018",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0516",
+    "name": "William Day",
+    "cgpa": 7.87,
+    "branch": "ECE",
+    "shortlists": [
+      "C005",
+      "C006",
+      "C007",
+      "C018",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0517",
+    "name": "Michael Cooper",
+    "cgpa": 6.71,
+    "branch": "ISE",
+    "shortlists": [
+      "C002",
+      "C003",
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0518",
+    "name": "Penny Bowman",
+    "cgpa": 8.06,
+    "branch": "ISE",
+    "shortlists": [
+      "C001",
+      "C005",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0519",
+    "name": "Vincent Reynolds",
+    "cgpa": 8.68,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C004",
+      "C006",
+      "C016"
+    ]
+  },
+  {
+    "student_id": "S0520",
+    "name": "Amy Martinez",
+    "cgpa": 6.48,
+    "branch": "Mech",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0521",
+    "name": "Christopher Morris",
+    "cgpa": 6.55,
+    "branch": "Civil",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0522",
+    "name": "Hannah Everett",
+    "cgpa": 8.44,
+    "branch": "ISE",
+    "shortlists": [
+      "C020",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0523",
+    "name": "Sarah King",
+    "cgpa": 7.14,
+    "branch": "ISE",
+    "shortlists": [
+      "C001",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0524",
+    "name": "Krista Martinez",
+    "cgpa": 8.49,
+    "branch": "Civil",
+    "shortlists": [
+      "C001",
+      "C007",
+      "C030"
+    ]
+  },
+  {
+    "student_id": "S0525",
+    "name": "Joseph Shaw",
+    "cgpa": 6.92,
+    "branch": "CSE",
+    "shortlists": [
+      "C005",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0526",
+    "name": "Todd Moore",
+    "cgpa": 8.54,
+    "branch": "ECE",
+    "shortlists": [
+      "C014",
+      "C020",
+      "C022",
+      "C029"
+    ]
+  },
+  {
+    "student_id": "S0527",
+    "name": "Michelle Jacobs",
+    "cgpa": 7.41,
+    "branch": "ECE",
+    "shortlists": [
+      "C005",
+      "C007",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0528",
+    "name": "Kristy Bryan",
+    "cgpa": 7.52,
+    "branch": "Mech",
+    "shortlists": [
+      "C006",
+      "C016",
+      "C026"
+    ]
+  },
+  {
+    "student_id": "S0529",
+    "name": "Angel May",
+    "cgpa": 8.63,
+    "branch": "CSE",
+    "shortlists": [
+      "C007",
+      "C029"
+    ]
+  },
+  {
+    "student_id": "S0530",
+    "name": "Marilyn Wang",
+    "cgpa": 6.99,
+    "branch": "EEE",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0531",
+    "name": "Mark Jimenez",
+    "cgpa": 6.5,
+    "branch": "ISE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0532",
+    "name": "Donna Frye",
+    "cgpa": 6.92,
+    "branch": "EEE",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0533",
+    "name": "Dr. Michael Evans",
+    "cgpa": 7.68,
+    "branch": "CSE",
+    "shortlists": [
+      "C007",
+      "C010",
+      "C018"
+    ]
+  },
+  {
+    "student_id": "S0534",
+    "name": "Anthony Gonzales",
+    "cgpa": 5.97,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0535",
+    "name": "Mr. Lawrence Edwards",
+    "cgpa": 7.84,
+    "branch": "ECE",
+    "shortlists": [
+      "C001",
+      "C005",
+      "C006",
+      "C016",
+      "C018",
+      "C022",
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0536",
+    "name": "Morgan Valencia",
+    "cgpa": 6.84,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0537",
+    "name": "Bianca Wood",
+    "cgpa": 8.28,
+    "branch": "CSE",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0538",
+    "name": "Emma Owens",
+    "cgpa": 5.26,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0539",
+    "name": "David Davis",
+    "cgpa": 6.63,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0540",
+    "name": "James Gilbert",
+    "cgpa": 5.87,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0541",
+    "name": "Sean Moore",
+    "cgpa": 6.6,
+    "branch": "Aero",
+    "shortlists": [
+      "C001"
+    ]
+  },
+  {
+    "student_id": "S0542",
+    "name": "Kenneth Edwards",
+    "cgpa": 7.51,
+    "branch": "ISE",
+    "shortlists": [
+      "C002",
+      "C003",
+      "C016",
+      "C020",
+      "C021"
+    ]
+  },
+  {
+    "student_id": "S0543",
+    "name": "Kathleen Robertson",
+    "cgpa": 7.15,
+    "branch": "Civil",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0544",
+    "name": "Mr. Alexander Landry MD",
+    "cgpa": 7.08,
+    "branch": "Aero",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0545",
+    "name": "Cindy Gomez",
+    "cgpa": 7.16,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0546",
+    "name": "Johnny Khan",
+    "cgpa": 7.47,
+    "branch": "EEE",
+    "shortlists": [
+      "C001",
+      "C005",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0547",
+    "name": "Julie Herrera",
+    "cgpa": 6.44,
+    "branch": "Civil",
+    "shortlists": [
+      "C005",
+      "C006",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0548",
+    "name": "Jessica Khan",
+    "cgpa": 7.9,
+    "branch": "EEE",
+    "shortlists": [
+      "C007",
+      "C014"
+    ]
+  },
+  {
+    "student_id": "S0549",
+    "name": "Pamela Diaz",
+    "cgpa": 7.86,
+    "branch": "ECE",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0550",
+    "name": "Kelly Lee",
+    "cgpa": 7.63,
+    "branch": "ECE",
+    "shortlists": [
+      "C004",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0551",
+    "name": "Angel Gordon",
+    "cgpa": 7.77,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C002",
+      "C011",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0552",
+    "name": "Diana Hays",
+    "cgpa": 7.55,
+    "branch": "ECE",
+    "shortlists": [
+      "C004",
+      "C007",
+      "C022"
+    ]
+  },
+  {
+    "student_id": "S0553",
+    "name": "Barbara Hester",
+    "cgpa": 9.03,
+    "branch": "Aero",
+    "shortlists": [
+      "C006",
+      "C033"
+    ]
+  },
+  {
+    "student_id": "S0554",
+    "name": "Robert Morgan",
+    "cgpa": 7.23,
+    "branch": "Aero",
+    "shortlists": [
+      "C001",
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0555",
+    "name": "Nicole Gonzalez",
+    "cgpa": 7.04,
+    "branch": "CSE",
+    "shortlists": [
+      "C003",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0556",
+    "name": "Kathryn Williams",
+    "cgpa": 6.66,
+    "branch": "Mech",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0557",
+    "name": "Gary Wells",
+    "cgpa": 6.42,
+    "branch": "ISE",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0558",
+    "name": "Larry Robertson",
+    "cgpa": 6.24,
+    "branch": "Chem",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0559",
+    "name": "Louis Martin",
+    "cgpa": 6.54,
+    "branch": "CSE",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0560",
+    "name": "Nancy Evans MD",
+    "cgpa": 7.24,
+    "branch": "Chem",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0561",
+    "name": "Kim Erickson",
+    "cgpa": 7.58,
+    "branch": "Civil",
+    "shortlists": [
+      "C003",
+      "C007",
+      "C023"
+    ]
+  },
+  {
+    "student_id": "S0562",
+    "name": "Robert Richardson",
+    "cgpa": 7.34,
+    "branch": "CSE",
+    "shortlists": [
+      "C003",
+      "C016"
+    ]
+  },
+  {
+    "student_id": "S0563",
+    "name": "Veronica Silva",
+    "cgpa": 6.65,
+    "branch": "CSE",
+    "shortlists": [
+      "C003",
+      "C004",
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0564",
+    "name": "Molly Watts",
+    "cgpa": 8.07,
+    "branch": "Civil",
+    "shortlists": [
+      "C014"
+    ]
+  },
+  {
+    "student_id": "S0565",
+    "name": "John Coffey",
+    "cgpa": 7.93,
+    "branch": "CSE",
+    "shortlists": [
+      "C003",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0566",
+    "name": "Paula Lane",
+    "cgpa": 7.16,
+    "branch": "ECE",
+    "shortlists": [
+      "C017"
+    ]
+  },
+  {
+    "student_id": "S0567",
+    "name": "Lauren Jackson",
+    "cgpa": 6.75,
+    "branch": "Chem",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0568",
+    "name": "Lisa Randall",
+    "cgpa": 7.77,
+    "branch": "ECE",
+    "shortlists": [
+      "C005",
+      "C007",
+      "C020"
+    ]
+  },
+  {
+    "student_id": "S0569",
+    "name": "Michael Johnson",
+    "cgpa": 7.46,
+    "branch": "ISE",
+    "shortlists": [
+      "C007",
+      "C021"
+    ]
+  },
+  {
+    "student_id": "S0570",
+    "name": "Ashley Smith",
+    "cgpa": 6.07,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0571",
+    "name": "Christian Vaughn",
+    "cgpa": 7.24,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C006",
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0572",
+    "name": "Reginald Knapp",
+    "cgpa": 7.52,
+    "branch": "Aero",
+    "shortlists": [
+      "C004",
+      "C010",
+      "C022"
+    ]
+  },
+  {
+    "student_id": "S0573",
+    "name": "Nancy Brown",
+    "cgpa": 6.54,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0574",
+    "name": "Daniel Nguyen",
+    "cgpa": 7.46,
+    "branch": "CSE",
+    "shortlists": [
+      "C003",
+      "C006",
+      "C008"
+    ]
+  },
+  {
+    "student_id": "S0575",
+    "name": "Kelly Edwards",
+    "cgpa": 6.06,
+    "branch": "ISE",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0576",
+    "name": "Thomas Peterson",
+    "cgpa": 8.44,
+    "branch": "Aero",
+    "shortlists": [
+      "C030",
+      "C033"
+    ]
+  },
+  {
+    "student_id": "S0577",
+    "name": "Raymond Le",
+    "cgpa": 8.36,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C005",
+      "C007",
+      "C020"
+    ]
+  },
+  {
+    "student_id": "S0578",
+    "name": "Melissa Bishop",
+    "cgpa": 7.09,
+    "branch": "Civil",
+    "shortlists": [
+      "C002",
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0579",
+    "name": "David Grant",
+    "cgpa": 7.61,
+    "branch": "Mech",
+    "shortlists": [
+      "C002",
+      "C008",
+      "C018",
+      "C020"
+    ]
+  },
+  {
+    "student_id": "S0580",
+    "name": "William Evans",
+    "cgpa": 5.25,
+    "branch": "Civil",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0581",
+    "name": "Daniel Bush",
+    "cgpa": 6.32,
+    "branch": "Aero",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0582",
+    "name": "Gregory Peck",
+    "cgpa": 7.05,
+    "branch": "Civil",
+    "shortlists": [
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0583",
+    "name": "Denise Martinez",
+    "cgpa": 6.39,
+    "branch": "Aero",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0584",
+    "name": "Jamie Baird",
+    "cgpa": 7.91,
+    "branch": "CSE",
+    "shortlists": [
+      "C007",
+      "C022"
+    ]
+  },
+  {
+    "student_id": "S0585",
+    "name": "Tina Ballard",
+    "cgpa": 9.0,
+    "branch": "Mech",
+    "shortlists": [
+      "C006",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0586",
+    "name": "Dwayne Klein",
+    "cgpa": 6.3,
+    "branch": "ECE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0587",
+    "name": "Jeremy Scott",
+    "cgpa": 6.59,
+    "branch": "ECE",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0588",
+    "name": "Dale Ryan",
+    "cgpa": 7.5,
+    "branch": "Chem",
+    "shortlists": [
+      "C004",
+      "C017"
+    ]
+  },
+  {
+    "student_id": "S0589",
+    "name": "Melissa Taylor",
+    "cgpa": 8.67,
+    "branch": "Aero",
+    "shortlists": [
+      "C006",
+      "C007",
+      "C033"
+    ]
+  },
+  {
+    "student_id": "S0590",
+    "name": "Laurie Sanchez",
+    "cgpa": 6.26,
+    "branch": "Mech",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0591",
+    "name": "Kiara Little",
+    "cgpa": 7.51,
+    "branch": "ECE",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0592",
+    "name": "Jason Love",
+    "cgpa": 8.85,
+    "branch": "ECE",
+    "shortlists": [
+      "C002",
+      "C004",
+      "C014",
+      "C016"
+    ]
+  },
+  {
+    "student_id": "S0593",
+    "name": "Randy Smith",
+    "cgpa": 5.9,
+    "branch": "ISE",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0594",
+    "name": "Tanya Russell",
+    "cgpa": 6.21,
+    "branch": "ISE",
+    "shortlists": [
+      "C002",
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0595",
+    "name": "Sherry Woods",
+    "cgpa": 6.94,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0596",
+    "name": "Victor Morris",
+    "cgpa": 6.86,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0597",
+    "name": "Susan Davis",
+    "cgpa": 7.99,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0598",
+    "name": "Kimberly Sharp",
+    "cgpa": 7.51,
+    "branch": "Mech",
+    "shortlists": [
+      "C001",
+      "C002",
+      "C014"
+    ]
+  },
+  {
+    "student_id": "S0599",
+    "name": "Susan Thompson",
+    "cgpa": 5.79,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0600",
+    "name": "Casey Gillespie",
+    "cgpa": 7.74,
+    "branch": "Chem",
+    "shortlists": [
+      "C005",
+      "C007",
+      "C018",
+      "C020"
+    ]
+  },
+  {
+    "student_id": "S0601",
+    "name": "Jennifer Simpson DVM",
+    "cgpa": 6.81,
+    "branch": "EEE",
+    "shortlists": [
+      "C004",
+      "C005",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0602",
+    "name": "Tammy Mcdowell",
+    "cgpa": 8.38,
+    "branch": "CSE",
+    "shortlists": [
+      "C006",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0603",
+    "name": "Keith Rodriguez",
+    "cgpa": 6.77,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0604",
+    "name": "Mrs. Virginia Daniels",
+    "cgpa": 6.76,
+    "branch": "CSE",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0605",
+    "name": "Todd Rosales MD",
+    "cgpa": 7.76,
+    "branch": "Aero",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0606",
+    "name": "Brian Martin",
+    "cgpa": 7.95,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C006",
+      "C007",
+      "C013",
+      "C016"
+    ]
+  },
+  {
+    "student_id": "S0607",
+    "name": "David Lopez",
+    "cgpa": 7.68,
+    "branch": "ECE",
+    "shortlists": [
+      "C001",
+      "C005",
+      "C007",
+      "C018",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0608",
+    "name": "Rachel Bradley",
+    "cgpa": 5.87,
+    "branch": "Chem",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0609",
+    "name": "Casey Chase",
+    "cgpa": 7.76,
+    "branch": "Aero",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0610",
+    "name": "Samantha Robertson",
+    "cgpa": 6.42,
+    "branch": "CSE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0611",
+    "name": "Michael Lopez",
+    "cgpa": 7.5,
+    "branch": "CSE",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0612",
+    "name": "Franklin Wright",
+    "cgpa": 6.09,
+    "branch": "CSE",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0613",
+    "name": "David Molina",
+    "cgpa": 7.68,
+    "branch": "CSE",
+    "shortlists": [
+      "C003",
+      "C006",
+      "C007",
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0614",
+    "name": "Elizabeth Sharp",
+    "cgpa": 6.61,
+    "branch": "CSE",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0615",
+    "name": "Matthew Schwartz",
+    "cgpa": 6.21,
+    "branch": "ECE",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0616",
+    "name": "Bryan Parker",
+    "cgpa": 7.91,
+    "branch": "Chem",
+    "shortlists": [
+      "C016"
+    ]
+  },
+  {
+    "student_id": "S0617",
+    "name": "Jonathan Jacobson",
+    "cgpa": 7.51,
+    "branch": "ECE",
+    "shortlists": [
+      "C009"
+    ]
+  },
+  {
+    "student_id": "S0618",
+    "name": "Emily Wilson",
+    "cgpa": 6.78,
+    "branch": "EEE",
+    "shortlists": [
+      "C005",
+      "C006",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0619",
+    "name": "Elizabeth Mendez",
+    "cgpa": 8.53,
+    "branch": "CSE",
+    "shortlists": [
+      "C020",
+      "C023"
+    ]
+  },
+  {
+    "student_id": "S0620",
+    "name": "Casey Hernandez",
+    "cgpa": 6.93,
+    "branch": "Civil",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0621",
+    "name": "Lisa Perry",
+    "cgpa": 7.33,
+    "branch": "EEE",
+    "shortlists": [
+      "C010"
+    ]
+  },
+  {
+    "student_id": "S0622",
+    "name": "Kaitlin Medina",
+    "cgpa": 7.53,
+    "branch": "Civil",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0623",
+    "name": "Colleen Wright",
+    "cgpa": 6.77,
+    "branch": "Aero",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0624",
+    "name": "Shelley Miller",
+    "cgpa": 7.7,
+    "branch": "ISE",
+    "shortlists": [
+      "C002",
+      "C004",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0625",
+    "name": "Michael Miller",
+    "cgpa": 6.85,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0626",
+    "name": "Amy Kelley",
+    "cgpa": 6.95,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0627",
+    "name": "Laura Hernandez",
+    "cgpa": 8.46,
+    "branch": "ECE",
+    "shortlists": [
+      "C021",
+      "C031"
+    ]
+  },
+  {
+    "student_id": "S0628",
+    "name": "Joseph Wilson",
+    "cgpa": 6.42,
+    "branch": "Aero",
+    "shortlists": [
+      "C005",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0629",
+    "name": "Kevin Davis",
+    "cgpa": 5.25,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0630",
+    "name": "Rhonda Chavez",
+    "cgpa": 8.67,
+    "branch": "Mech",
+    "shortlists": [
+      "C003",
+      "C014",
+      "C032"
+    ]
+  },
+  {
+    "student_id": "S0631",
+    "name": "Joyce Brown",
+    "cgpa": 9.47,
+    "branch": "ECE",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0632",
+    "name": "Robert Cummings",
+    "cgpa": 6.96,
+    "branch": "CSE",
+    "shortlists": [
+      "C004",
+      "C005",
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0633",
+    "name": "Robert Reese",
+    "cgpa": 5.65,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0634",
+    "name": "Amber Cooper",
+    "cgpa": 7.04,
+    "branch": "EEE",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0635",
+    "name": "Zachary Michael",
+    "cgpa": 7.06,
+    "branch": "EEE",
+    "shortlists": [
+      "C005",
+      "C014"
+    ]
+  },
+  {
+    "student_id": "S0636",
+    "name": "Timothy Johnson",
+    "cgpa": 7.14,
+    "branch": "ECE",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0637",
+    "name": "Randy Cannon",
+    "cgpa": 6.35,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0638",
+    "name": "Maria Fisher",
+    "cgpa": 7.79,
+    "branch": "Mech",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0639",
+    "name": "Janet Kane DVM",
+    "cgpa": 7.75,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C007",
+      "C025",
+      "C026"
+    ]
+  },
+  {
+    "student_id": "S0640",
+    "name": "Michael Stanley",
+    "cgpa": 6.03,
+    "branch": "Chem",
+    "shortlists": [
+      "C002",
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0641",
+    "name": "Martha Bailey",
+    "cgpa": 7.89,
+    "branch": "CSE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0642",
+    "name": "Joshua Rice",
+    "cgpa": 9.04,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C003",
+      "C004",
+      "C009",
+      "C029"
+    ]
+  },
+  {
+    "student_id": "S0643",
+    "name": "Courtney Smith",
+    "cgpa": 7.45,
+    "branch": "ECE",
+    "shortlists": [
+      "C019"
+    ]
+  },
+  {
+    "student_id": "S0644",
+    "name": "Edwin Nunez",
+    "cgpa": 7.01,
+    "branch": "ECE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0645",
+    "name": "Kim Morrow",
+    "cgpa": 7.18,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0646",
+    "name": "Gregory Hill",
+    "cgpa": 7.82,
+    "branch": "ECE",
+    "shortlists": [
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0647",
+    "name": "Molly Rodriguez",
+    "cgpa": 5.83,
+    "branch": "Aero",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0648",
+    "name": "Jennifer Miranda",
+    "cgpa": 7.44,
+    "branch": "ECE",
+    "shortlists": [
+      "C006",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0649",
+    "name": "Alexis Harris",
+    "cgpa": 6.97,
+    "branch": "ECE",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0650",
+    "name": "Andrew Harper",
+    "cgpa": 8.87,
+    "branch": "ECE",
+    "shortlists": [
+      "C003",
+      "C010",
+      "C020",
+      "C030"
+    ]
+  },
+  {
+    "student_id": "S0651",
+    "name": "Amber Yang",
+    "cgpa": 7.15,
+    "branch": "CSE",
+    "shortlists": [
+      "C004",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0652",
+    "name": "David Robinson",
+    "cgpa": 8.72,
+    "branch": "EEE",
+    "shortlists": [
+      "C002",
+      "C006",
+      "C024",
+      "C028"
+    ]
+  },
+  {
+    "student_id": "S0653",
+    "name": "Amy Gordon",
+    "cgpa": 6.36,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0654",
+    "name": "Robert Dennis",
+    "cgpa": 7.8,
+    "branch": "EEE",
+    "shortlists": [
+      "C020",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0655",
+    "name": "Kyle Chambers",
+    "cgpa": 7.57,
+    "branch": "CSE",
+    "shortlists": [
+      "C027"
+    ]
+  },
+  {
+    "student_id": "S0656",
+    "name": "Eric Thomas",
+    "cgpa": 6.56,
+    "branch": "Aero",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0657",
+    "name": "Connie Turner",
+    "cgpa": 7.45,
+    "branch": "ECE",
+    "shortlists": [
+      "C005",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0658",
+    "name": "Travis Hobbs",
+    "cgpa": 8.33,
+    "branch": "Chem",
+    "shortlists": [
+      "C001"
+    ]
+  },
+  {
+    "student_id": "S0659",
+    "name": "Lori Simmons",
+    "cgpa": 7.02,
+    "branch": "ECE",
+    "shortlists": [
+      "C004",
+      "C005",
+      "C012"
+    ]
+  },
+  {
+    "student_id": "S0660",
+    "name": "William David DDS",
+    "cgpa": 5.86,
+    "branch": "CSE",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0661",
+    "name": "Emma Butler",
+    "cgpa": 7.29,
+    "branch": "Civil",
+    "shortlists": [
+      "C001",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0662",
+    "name": "James Webster",
+    "cgpa": 6.53,
+    "branch": "EEE",
+    "shortlists": [
+      "C001",
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0663",
+    "name": "Samuel Turner",
+    "cgpa": 7.01,
+    "branch": "Mech",
+    "shortlists": [
+      "C006",
+      "C014"
+    ]
+  },
+  {
+    "student_id": "S0664",
+    "name": "Renee Melendez",
+    "cgpa": 7.23,
+    "branch": "ECE",
+    "shortlists": [
+      "C005",
+      "C006",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0665",
+    "name": "Tracy Grant",
+    "cgpa": 5.85,
+    "branch": "EEE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0666",
+    "name": "David Harris",
+    "cgpa": 5.93,
+    "branch": "Civil",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0667",
+    "name": "Tammy Boone",
+    "cgpa": 7.71,
+    "branch": "EEE",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0668",
+    "name": "Nathaniel Lee",
+    "cgpa": 6.86,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0669",
+    "name": "Michael Morrison",
+    "cgpa": 5.12,
+    "branch": "EEE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0670",
+    "name": "Chelsea Gill",
+    "cgpa": 7.97,
+    "branch": "EEE",
+    "shortlists": [
+      "C022",
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0671",
+    "name": "Kristin Mendoza",
+    "cgpa": 7.53,
+    "branch": "Aero",
+    "shortlists": [
+      "C001",
+      "C016"
+    ]
+  },
+  {
+    "student_id": "S0672",
+    "name": "Felicia Krueger",
+    "cgpa": 6.69,
+    "branch": "ISE",
+    "shortlists": [
+      "C001",
+      "C004",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0673",
+    "name": "Timothy Hayden",
+    "cgpa": 6.18,
+    "branch": "ECE",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0674",
+    "name": "Zachary Mendoza",
+    "cgpa": 8.01,
+    "branch": "Civil",
+    "shortlists": [
+      "C002",
+      "C005",
+      "C007",
+      "C023",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0675",
+    "name": "Larry Harris",
+    "cgpa": 7.6,
+    "branch": "ECE",
+    "shortlists": [
+      "C002",
+      "C005",
+      "C008"
+    ]
+  },
+  {
+    "student_id": "S0676",
+    "name": "Kristen Rowe",
+    "cgpa": 9.33,
+    "branch": "Mech",
+    "shortlists": [
+      "C001",
+      "C002",
+      "C032"
+    ]
+  },
+  {
+    "student_id": "S0677",
+    "name": "Joseph Howard",
+    "cgpa": 7.66,
+    "branch": "ECE",
+    "shortlists": [
+      "C002",
+      "C006",
+      "C027"
+    ]
+  },
+  {
+    "student_id": "S0678",
+    "name": "Jose Crawford",
+    "cgpa": 7.63,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C005",
+      "C007",
+      "C021"
+    ]
+  },
+  {
+    "student_id": "S0679",
+    "name": "William Harrison",
+    "cgpa": 7.16,
+    "branch": "Mech",
+    "shortlists": [
+      "C006",
+      "C014"
+    ]
+  },
+  {
+    "student_id": "S0680",
+    "name": "Suzanne Wood",
+    "cgpa": 7.99,
+    "branch": "CSE",
+    "shortlists": [
+      "C007",
+      "C023"
+    ]
+  },
+  {
+    "student_id": "S0681",
+    "name": "Justin Walker",
+    "cgpa": 7.83,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0682",
+    "name": "Dean Donovan",
+    "cgpa": 8.36,
+    "branch": "EEE",
+    "shortlists": [
+      "C002",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0683",
+    "name": "Jennifer Hernandez",
+    "cgpa": 6.86,
+    "branch": "Mech",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0684",
+    "name": "James Whitaker",
+    "cgpa": 6.93,
+    "branch": "Chem",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0685",
+    "name": "Mr. Michael Scott PhD",
+    "cgpa": 6.89,
+    "branch": "CSE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0686",
+    "name": "Maria Henry",
+    "cgpa": 7.97,
+    "branch": "CSE",
+    "shortlists": [
+      "C005",
+      "C019",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0687",
+    "name": "Robert Jackson",
+    "cgpa": 8.57,
+    "branch": "Aero",
+    "shortlists": [
+      "C004",
+      "C034"
+    ]
+  },
+  {
+    "student_id": "S0688",
+    "name": "Katherine Stark",
+    "cgpa": 6.91,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C004",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0689",
+    "name": "Maria Brown",
+    "cgpa": 6.94,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C009",
+      "C027"
+    ]
+  },
+  {
+    "student_id": "S0690",
+    "name": "Ryan Landry",
+    "cgpa": 7.57,
+    "branch": "ISE",
+    "shortlists": [
+      "C004",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0691",
+    "name": "Pamela Gutierrez",
+    "cgpa": 7.09,
+    "branch": "ECE",
+    "shortlists": [
+      "C004",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0692",
+    "name": "Crystal Mann",
+    "cgpa": 8.11,
+    "branch": "Chem",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0693",
+    "name": "Jonathan Brooks",
+    "cgpa": 5.39,
+    "branch": "Mech",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0694",
+    "name": "Mary Jensen",
+    "cgpa": 6.6,
+    "branch": "Mech",
+    "shortlists": [
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0695",
+    "name": "Mr. Aaron Arnold",
+    "cgpa": 6.63,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0696",
+    "name": "Joseph Hill",
+    "cgpa": 5.33,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0697",
+    "name": "Alicia Li",
+    "cgpa": 6.48,
+    "branch": "ECE",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0698",
+    "name": "Renee Browning",
+    "cgpa": 6.52,
+    "branch": "CSE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0699",
+    "name": "Brent Hernandez",
+    "cgpa": 7.13,
+    "branch": "CSE",
+    "shortlists": [
+      "C004",
+      "C007",
+      "C012"
+    ]
+  },
+  {
+    "student_id": "S0700",
+    "name": "Joseph Ochoa",
+    "cgpa": 8.25,
+    "branch": "ISE",
+    "shortlists": [
+      "C007",
+      "C030",
+      "C034"
+    ]
+  },
+  {
+    "student_id": "S0701",
+    "name": "James Watson",
+    "cgpa": 7.09,
+    "branch": "CSE",
+    "shortlists": [
+      "C004",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0702",
+    "name": "Karl Branch",
+    "cgpa": 6.42,
+    "branch": "ECE",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0703",
+    "name": "Michael Abbott",
+    "cgpa": 7.25,
+    "branch": "Mech",
+    "shortlists": [
+      "C002",
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0704",
+    "name": "Shannon Malone",
+    "cgpa": 8.19,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C004",
+      "C007",
+      "C010"
+    ]
+  },
+  {
+    "student_id": "S0705",
+    "name": "James Tran",
+    "cgpa": 6.47,
+    "branch": "ECE",
+    "shortlists": [
+      "C001"
+    ]
+  },
+  {
+    "student_id": "S0706",
+    "name": "Adam Jackson",
+    "cgpa": 6.53,
+    "branch": "Mech",
+    "shortlists": [
+      "C001",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0707",
+    "name": "Mr. Richard Knight PhD",
+    "cgpa": 7.77,
+    "branch": "Mech",
+    "shortlists": [
+      "C006",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0708",
+    "name": "Joseph Williams",
+    "cgpa": 7.11,
+    "branch": "Civil",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0709",
+    "name": "Sean Clay",
+    "cgpa": 7.85,
+    "branch": "ECE",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0710",
+    "name": "Anthony Jones",
+    "cgpa": 7.29,
+    "branch": "Civil",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0711",
+    "name": "Stephanie Elliott",
+    "cgpa": 7.9,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0712",
+    "name": "Timothy Edwards",
+    "cgpa": 6.42,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0713",
+    "name": "Laurie Goodwin",
+    "cgpa": 7.29,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C009"
+    ]
+  },
+  {
+    "student_id": "S0714",
+    "name": "Jennifer Jones",
+    "cgpa": 7.12,
+    "branch": "ECE",
+    "shortlists": [
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0715",
+    "name": "David Davenport",
+    "cgpa": 6.27,
+    "branch": "ISE",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0716",
+    "name": "Steven Rivera",
+    "cgpa": 5.97,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0717",
+    "name": "Brenda Hinton",
+    "cgpa": 7.88,
+    "branch": "Mech",
+    "shortlists": [
+      "C004",
+      "C015",
+      "C017"
+    ]
+  },
+  {
+    "student_id": "S0718",
+    "name": "Kathryn Mccann",
+    "cgpa": 7.0,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0719",
+    "name": "Jeffrey Roberson",
+    "cgpa": 6.43,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0720",
+    "name": "Randy Friedman",
+    "cgpa": 7.22,
+    "branch": "CSE",
+    "shortlists": [
+      "C005"
+    ]
+  },
+  {
+    "student_id": "S0721",
+    "name": "Raymond Johnson",
+    "cgpa": 8.26,
+    "branch": "ECE",
+    "shortlists": [
+      "C005",
+      "C006",
+      "C007",
+      "C014",
+      "C033",
+      "C035"
+    ]
+  },
+  {
+    "student_id": "S0722",
+    "name": "Willie Henry",
+    "cgpa": 5.36,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0723",
+    "name": "Todd Reynolds",
+    "cgpa": 6.03,
+    "branch": "ISE",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0724",
+    "name": "Mary Miller",
+    "cgpa": 6.52,
+    "branch": "CSE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0725",
+    "name": "Rebecca Marquez",
+    "cgpa": 8.54,
+    "branch": "Mech",
+    "shortlists": [
+      "C034"
+    ]
+  },
+  {
+    "student_id": "S0726",
+    "name": "Christian Dawson",
+    "cgpa": 7.54,
+    "branch": "Chem",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0727",
+    "name": "Nancy Stewart",
+    "cgpa": 7.95,
+    "branch": "ECE",
+    "shortlists": [
+      "C007",
+      "C010"
+    ]
+  },
+  {
+    "student_id": "S0728",
+    "name": "Aaron Parker",
+    "cgpa": 6.33,
+    "branch": "EEE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0729",
+    "name": "Derrick Anderson",
+    "cgpa": 6.35,
+    "branch": "Civil",
+    "shortlists": [
+      "C003"
+    ]
+  },
+  {
+    "student_id": "S0730",
+    "name": "Jerry Peters",
+    "cgpa": 7.68,
+    "branch": "Aero",
+    "shortlists": [
+      "C003",
+      "C004",
+      "C006",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0731",
+    "name": "Alexander Gomez",
+    "cgpa": 7.35,
+    "branch": "EEE",
+    "shortlists": [
+      "C007",
+      "C014"
+    ]
+  },
+  {
+    "student_id": "S0732",
+    "name": "Kyle Nguyen",
+    "cgpa": 7.77,
+    "branch": "Chem",
+    "shortlists": [
+      "C002",
+      "C003",
+      "C010",
+      "C020"
+    ]
+  },
+  {
+    "student_id": "S0733",
+    "name": "Edgar Hughes",
+    "cgpa": 7.14,
+    "branch": "Chem",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0734",
+    "name": "Steven Stein",
+    "cgpa": 7.54,
+    "branch": "Mech",
+    "shortlists": [
+      "C009"
+    ]
+  },
+  {
+    "student_id": "S0735",
+    "name": "Laura Jackson",
+    "cgpa": 7.43,
+    "branch": "ECE",
+    "shortlists": [
+      "C002",
+      "C003",
+      "C007",
+      "C010"
+    ]
+  },
+  {
+    "student_id": "S0736",
+    "name": "Charles Turner",
+    "cgpa": 7.96,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C005",
+      "C013",
+      "C018"
+    ]
+  },
+  {
+    "student_id": "S0737",
+    "name": "Arthur Hamilton MD",
+    "cgpa": 7.99,
+    "branch": "CSE",
+    "shortlists": [
+      "C020"
+    ]
+  },
+  {
+    "student_id": "S0738",
+    "name": "Mr. David Wright",
+    "cgpa": 5.92,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0739",
+    "name": "Linda Gonzalez",
+    "cgpa": 5.39,
+    "branch": "ECE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0740",
+    "name": "Eric Rush",
+    "cgpa": 8.15,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0741",
+    "name": "Manuel Brock",
+    "cgpa": 8.31,
+    "branch": "ECE",
+    "shortlists": [
+      "C004",
+      "C010",
+      "C026",
+      "C035"
+    ]
+  },
+  {
+    "student_id": "S0742",
+    "name": "George Ochoa",
+    "cgpa": 6.43,
+    "branch": "ECE",
+    "shortlists": [
+      "C003",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0743",
+    "name": "Valerie Taylor",
+    "cgpa": 5.72,
+    "branch": "Civil",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0744",
+    "name": "Travis Harris",
+    "cgpa": 7.38,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C007",
+      "C016"
+    ]
+  },
+  {
+    "student_id": "S0745",
+    "name": "Vincent Novak",
+    "cgpa": 8.09,
+    "branch": "CSE",
+    "shortlists": [
+      "C007",
+      "C018",
+      "C020"
+    ]
+  },
+  {
+    "student_id": "S0746",
+    "name": "Michael Henry",
+    "cgpa": 8.83,
+    "branch": "Mech",
+    "shortlists": [
+      "C003",
+      "C005",
+      "C009"
+    ]
+  },
+  {
+    "student_id": "S0747",
+    "name": "Dana Bennett",
+    "cgpa": 7.74,
+    "branch": "Civil",
+    "shortlists": [
+      "C005",
+      "C007",
+      "C018"
+    ]
+  },
+  {
+    "student_id": "S0748",
+    "name": "Jenna Wilson",
+    "cgpa": 6.98,
+    "branch": "Aero",
+    "shortlists": [
+      "C002",
+      "C003",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0749",
+    "name": "Leslie Gardner",
+    "cgpa": 6.54,
+    "branch": "Civil",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0750",
+    "name": "Krista Benton",
+    "cgpa": 7.31,
+    "branch": "Chem",
+    "shortlists": [
+      "C017",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0751",
+    "name": "Michael Gonzales",
+    "cgpa": 7.05,
+    "branch": "ISE",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0752",
+    "name": "Michael Fuentes",
+    "cgpa": 6.44,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0753",
+    "name": "Jennifer Porter",
+    "cgpa": 9.04,
+    "branch": "CSE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0754",
+    "name": "Dana Hopkins",
+    "cgpa": 8.82,
+    "branch": "EEE",
+    "shortlists": [
+      "C004",
+      "C020",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0755",
+    "name": "Rachel Jones",
+    "cgpa": 8.27,
+    "branch": "Chem",
+    "shortlists": [
+      "C001",
+      "C030"
+    ]
+  },
+  {
+    "student_id": "S0756",
+    "name": "Karen Morales DDS",
+    "cgpa": 6.52,
+    "branch": "ISE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0757",
+    "name": "Melissa Stephens",
+    "cgpa": 8.03,
+    "branch": "ECE",
+    "shortlists": [
+      "C001",
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0758",
+    "name": "Heather Woodard",
+    "cgpa": 7.84,
+    "branch": "ISE",
+    "shortlists": [
+      "C006",
+      "C014",
+      "C018",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0759",
+    "name": "Margaret Miller",
+    "cgpa": 7.68,
+    "branch": "CSE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0760",
+    "name": "Mary Kelly",
+    "cgpa": 8.36,
+    "branch": "CSE",
+    "shortlists": [
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0761",
+    "name": "Amanda Terrell",
+    "cgpa": 7.84,
+    "branch": "CSE",
+    "shortlists": [
+      "C005",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0762",
+    "name": "Jennifer Goodwin",
+    "cgpa": 7.93,
+    "branch": "Aero",
+    "shortlists": [
+      "C001",
+      "C006",
+      "C007",
+      "C018"
+    ]
+  },
+  {
+    "student_id": "S0763",
+    "name": "Jessica Smith",
+    "cgpa": 7.84,
+    "branch": "ISE",
+    "shortlists": [
+      "C002",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0764",
+    "name": "Jorge Stone",
+    "cgpa": 7.59,
+    "branch": "Civil",
+    "shortlists": [
+      "C001",
+      "C006",
+      "C016"
+    ]
+  },
+  {
+    "student_id": "S0765",
+    "name": "Laura Griffin",
+    "cgpa": 5.78,
+    "branch": "Mech",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0766",
+    "name": "Raymond Chapman",
+    "cgpa": 7.37,
+    "branch": "CSE",
+    "shortlists": [
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0767",
+    "name": "Haley Johnson",
+    "cgpa": 6.83,
+    "branch": "CSE",
+    "shortlists": [
+      "C005",
+      "C013"
+    ]
+  },
+  {
+    "student_id": "S0768",
+    "name": "Jason Nixon",
+    "cgpa": 6.21,
+    "branch": "Civil",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0769",
+    "name": "Todd Thomas",
+    "cgpa": 8.73,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0770",
+    "name": "Jesse Clark",
+    "cgpa": 8.77,
+    "branch": "Chem",
+    "shortlists": [
+      "C002",
+      "C004",
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0771",
+    "name": "Mr. Jeffrey Horton",
+    "cgpa": 8.46,
+    "branch": "CSE",
+    "shortlists": [
+      "C031"
+    ]
+  },
+  {
+    "student_id": "S0772",
+    "name": "Eric Patrick",
+    "cgpa": 7.52,
+    "branch": "EEE",
+    "shortlists": [
+      "C017"
+    ]
+  },
+  {
+    "student_id": "S0773",
+    "name": "Samuel Wong",
+    "cgpa": 8.45,
+    "branch": "Civil",
+    "shortlists": [
+      "C006",
+      "C008",
+      "C011"
+    ]
+  },
+  {
+    "student_id": "S0774",
+    "name": "Carly Riggs",
+    "cgpa": 7.31,
+    "branch": "CSE",
+    "shortlists": [
+      "C004",
+      "C005",
+      "C012"
+    ]
+  },
+  {
+    "student_id": "S0775",
+    "name": "Christopher Moore",
+    "cgpa": 7.47,
+    "branch": "CSE",
+    "shortlists": [
+      "C003",
+      "C012",
+      "C026"
+    ]
+  },
+  {
+    "student_id": "S0776",
+    "name": "Tina Hall",
+    "cgpa": 6.37,
+    "branch": "Aero",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0777",
+    "name": "Cody Davidson",
+    "cgpa": 7.64,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0778",
+    "name": "Allen Mendez",
+    "cgpa": 7.35,
+    "branch": "ECE",
+    "shortlists": [
+      "C003",
+      "C016",
+      "C022"
+    ]
+  },
+  {
+    "student_id": "S0779",
+    "name": "Kevin Price",
+    "cgpa": 6.19,
+    "branch": "ECE",
+    "shortlists": [
+      "C002"
+    ]
+  },
+  {
+    "student_id": "S0780",
+    "name": "Christine Goodwin",
+    "cgpa": 7.26,
+    "branch": "CSE",
+    "shortlists": [
+      "C007",
+      "C014"
+    ]
+  },
+  {
+    "student_id": "S0781",
+    "name": "Amy Garcia",
+    "cgpa": 7.23,
+    "branch": "Mech",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0782",
+    "name": "Chelsea Nguyen",
+    "cgpa": 8.83,
+    "branch": "Mech",
+    "shortlists": [
+      "C002",
+      "C006",
+      "C007",
+      "C033"
+    ]
+  },
+  {
+    "student_id": "S0783",
+    "name": "Dennis Huffman",
+    "cgpa": 8.06,
+    "branch": "ISE",
+    "shortlists": [
+      "C004"
+    ]
+  },
+  {
+    "student_id": "S0784",
+    "name": "Margaret Harper",
+    "cgpa": 7.31,
+    "branch": "Civil",
+    "shortlists": [
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0785",
+    "name": "Laurie Bailey",
+    "cgpa": 7.51,
+    "branch": "CSE",
+    "shortlists": [
+      "C016"
+    ]
+  },
+  {
+    "student_id": "S0786",
+    "name": "Lisa Cervantes",
+    "cgpa": 7.34,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C004",
+      "C024",
+      "C027"
+    ]
+  },
+  {
+    "student_id": "S0787",
+    "name": "Elizabeth Mendez",
+    "cgpa": 7.13,
+    "branch": "ECE",
+    "shortlists": [
+      "C003",
+      "C006",
+      "C007",
+      "C016",
+      "C024",
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0788",
+    "name": "Cesar Wilson",
+    "cgpa": 6.38,
+    "branch": "Aero",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0789",
+    "name": "Clayton Steele",
+    "cgpa": 7.17,
+    "branch": "CSE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0790",
+    "name": "Jennifer Taylor",
+    "cgpa": 6.67,
+    "branch": "CSE",
+    "shortlists": [
+      "C002",
+      "C003",
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0791",
+    "name": "Cody Reid",
+    "cgpa": 6.24,
+    "branch": "ECE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0792",
+    "name": "Maria Cooke",
+    "cgpa": 7.73,
+    "branch": "Civil",
+    "shortlists": [
+      "C005",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0793",
+    "name": "Katherine Taylor",
+    "cgpa": 7.63,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C021",
+      "C022"
+    ]
+  },
+  {
+    "student_id": "S0794",
+    "name": "Jerry Brown",
+    "cgpa": 5.78,
+    "branch": "ISE",
+    "shortlists": []
+  },
+  {
+    "student_id": "S0795",
+    "name": "Adam Taylor",
+    "cgpa": 7.2,
+    "branch": "Mech",
+    "shortlists": [
+      "C006"
+    ]
+  },
+  {
+    "student_id": "S0796",
+    "name": "Tracey Wagner",
+    "cgpa": 8.15,
+    "branch": "ISE",
+    "shortlists": [
+      "C005",
+      "C024"
+    ]
+  },
+  {
+    "student_id": "S0797",
+    "name": "Michael Perry PhD",
+    "cgpa": 8.2,
+    "branch": "CSE",
+    "shortlists": [
+      "C007"
+    ]
+  },
+  {
+    "student_id": "S0798",
+    "name": "Bradley Johnson DDS",
+    "cgpa": 8.17,
+    "branch": "CSE",
+    "shortlists": [
+      "C001",
+      "C006",
+      "C008",
+      "C010",
+      "C018",
+      "C025"
+    ]
+  },
+  {
+    "student_id": "S0799",
+    "name": "Donald Medina",
+    "cgpa": 7.33,
+    "branch": "ISE",
+    "shortlists": []
+  }
+]

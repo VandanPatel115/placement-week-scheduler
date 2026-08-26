@@ -1,0 +1,102 @@
+[
+  {
+    "room_id": "R01",
+    "day_start_min": 540,
+    "day_end_min": 1080
+  },
+  {
+    "room_id": "R02",
+    "day_start_min": 540,
+    "day_end_min": 1080
+  },
+  {
+    "room_id": "R03",
+    "day_start_min": 540,
+    "day_end_min": 1080
+  },
+  {
+    "room_id": "R04",
+    "day_start_min": 540,
+    "day_end_min": 1080
+  },
+  {
+    "room_id": "R05",
+    "day_start_min": 540,
+    "day_end_min": 1080
+  },
+  {
+    "room_id": "R06",
+    "day_start_min": 540,
+    "day_end_min": 1080
+  },
+  {
+    "room_id": "R07",
+    "day_start_min": 540,
+    "day_end_min": 1080
+  },
+  {
+    "room_id": "R08",
+    "day_start_min": 540,
+    "day_end_min": 1080
+  },
+  {
+    "room_id": "R09",
+    "day_start_min": 540,
+    "day_end_min": 1080
+  },
+  {
+    "room_id": "R10",
+    "day_start_min": 540,
+    "day_end_min": 1080
+  },
+  {
+    "room_id": "R11",
+    "day_start_min": 540,
+    "day_end_min": 1080
+  },
+  {
+    "room_id": "R12",
+    "day_start_min": 540,
+    "day_end_min": 1080
+  },
+  {
+    "room_id": "R13",
+    "day_start_min": 540,
+    "day_end_min": 1080
+  },
+  {
+    "room_id": "R14",
+    "day_start_min": 540,
+    "day_end_min": 1080
+  },
+  {
+    "room_id": "R15",
+    "day_start_min": 540,
+    "day_end_min": 1080
+  },
+  {
+    "room_id": "R16",
+    "day_start_min": 540,
+    "day_end_min": 1080
+  },
+  {
+    "room_id": "R17",
+    "day_start_min": 540,
+    "day_end_min": 1080
+  },
+  {
+    "room_id": "R18",
+    "day_start_min": 540,
+    "day_end_min": 1080
+  },
+  {
+    "room_id": "R19",
+    "day_start_min": 540,
+    "day_end_min": 1080
+  },
+  {
+    "room_id": "R20",
+    "day_start_min": 540,
+    "day_end_min": 1080
+  }
+]
