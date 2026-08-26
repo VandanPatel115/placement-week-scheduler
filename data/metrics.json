@@ -1,0 +1,42 @@
+{
+  "clashes": {
+    "student": 0,
+    "room": 0,
+    "panel": 0
+  },
+  "scheduled": {
+    "overall_pct": 50.1,
+    "scheduled": 678,
+    "total": 1354,
+    "by_day_scheduled": {
+      "1": 397,
+      "2": 55,
+      "3": 129,
+      "4": 97
+    },
+    "by_day_total": {
+      "1": 1073,
+      "2": 55,
+      "3": 129,
+      "4": 97
+    },
+    "by_day_pct": {
+      "1": 37.0,
+      "2": 100.0,
+      "3": 100.0,
+      "4": 100.0
+    }
+  },
+  "room_utilization_pct_by_day": {
+    "1": 99.1,
+    "2": 16.5,
+    "3": 49.3,
+    "4": 36.2
+  },
+  "student_wait_times": {
+    "avg_wait_min": 128.6,
+    "p95_wait_min": 375,
+    "n_gaps": 111
+  },
+  "unscheduled_count": 676
+}
